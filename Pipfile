@@ -9,6 +9,7 @@ pandas = "*"
 requests = "*"
 jupyter = "*"
 openpyxl = "*"
+pdfplumber = "*"
 
 [dev-packages]
 
