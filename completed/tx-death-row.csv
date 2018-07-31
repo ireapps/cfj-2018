@@ -1,0 +1,226 @@
+inmate_no,last,first,dob,sex,race,date_rcvd,county,date_offense
+999610,Delacruz,Isidro,10/07/1990,M,Hispanic,04/26/2018,Tom Green,09/02/2014
+999609,Delacerda,Jason,07/26/1977,M,Hispanic,03/08/2018,Hardin,08/17/2011
+999608,Hudson,William,07/03/1982,M,White,11/16/2017,Anderson,11/14/2015
+999607,Tracy,Billy,11/30/1977,M,White,11/15/2017,Bowie,07/15/2015
+999606,Colone,Joseph,08/13/1978,M,Black,05/09/2017,Jefferson,07/31/2010
+999605,Falk,John,11/19/1966,M,White,03/01/2017,Walker,09/24/2007
+999604,"Wells, III",Amos,08/20/1990,M,Black,11/22/2016,Tarrant,07/01/2013
+999603,Brownlow,Charles,09/16/1977,M,Black,05/23/2016,Kaufman,10/28/2013
+999602,Bluntson,Demond,11/25/1975,M,Black,05/10/2016,Webb,06/19/2012
+999601,Gonzalez,Mark,10/23/1969,M,Hispanic,01/28/2016,Bexar,05/28/2011
+999600,Calvert,James,12/03/1970,M,White,10/16/2015,Smith,10/31/2012
+999599,Hall,Paul,02/18/1993,M,Asian,10/09/2015,Brazos,10/20/2011
+999598,Williams,Eric,04/07/1967,M,White,12/18/2014,Kaufman,03/30/2013
+999597,Thomas,Steven,09/21/1958,M,White,12/05/2014,Williamson,11/04/1980
+999596,Suniga,Brian,12/27/1979,M,White,10/30/2014,Lubbock,12/26/2011
+999595,"Lewis, III",Harlem,07/05/1991,M,Black,08/01/2014,Harris,12/24/2012
+999594,Valdez,Fidencio,05/30/1979,M,Hispanic,07/24/2014,El Paso,12/10/2010
+999593,Ricks,Cedric,09/07/1974,M,Black,05/19/2014,Tarrant,05/01/2013
+999592,"Petetan, Jr.",Us,02/07/1976,M,Black,05/02/2014,McLennan,09/23/2012
+999591,Prevost,Jeffery,07/22/1959,M,Black,04/16/2014,Harris,05/20/2011
+999590,Balderas,Juan,09/02/1986,M,Hispanic,03/25/2014,Harris,12/15/2005
+999589,Daniel,Brandon,11/11/1987,M,White,03/07/2014,Travis,04/06/2012
+999588,Curry,George,11/18/1966,M,Black,03/03/2014,Harris,05/01/2009
+999587,"Harris, Jr.",James,08/07/1959,M,Black,12/19/2013,Brazoria,01/14/2012
+999586,Johnson,Matthew,09/17/1975,M,Black,12/05/2013,Dallas,05/20/2012
+999585,Davis,Franklin,01/17/1982,M,Black,11/21/2013,Dallas,09/06/2012
+999584,Cruz-Garcia,Obel,07/08/1967,M,Hispanic,11/01/2013,Harris,09/30/1992
+999582,Muhammad,Naim,05/03/1979,M,Black,07/09/2013,Dallas,08/22/2011
+999581,Jenkins,Willie,07/30/1953,M,Black,06/14/2013,Hays,11/24/1975
+999580,Brown,Micah,06/07/1979,M,White,06/10/2013,Hunt,07/20/2011
+999579,Granger,Bartholomew,09/26/1970,M,Black,05/07/2013,Jefferson,03/14/2012
+999578,Andrus,Terence,03/26/1988,M,Black,11/19/2012,Fort Bend,10/15/2008
+999577,Cummings,Rickey,08/23/1989,M,Black,11/13/2012,McLennan,03/28/2011
+999576,Nelson,Steven,02/18/1987,M,Black,10/16/2012,Tarrant,03/03/2011
+999575,Cade,Tyrone,11/30/1972,M,Black,09/06/2012,Dallas,03/27/2011
+999573,Harris,Roderick,06/12/1984,M,Black,06/13/2012,Dallas,03/17/2009
+999572,Cargill,Kimberly,11/30/1966,F,White,06/07/2012,Smith,06/18/2010
+999571,Soliz,Mark,01/27/1982,M,Hispanic,03/28/2012,Johnson,06/29/2010
+999570,Rockwell,Kwame,12/07/1975,M,Black,01/30/2012,Tarrant,03/23/2010
+999569,Cole,Jaime,03/05/1970,M,Hispanic,11/23/2011,Harris,02/04/2010
+999568,Batiste,Tedderick,12/30/1987,M,Black,07/27/2011,Harris,04/19/2009
+999567,Hummel,John,11/14/1975,M,White,06/29/2011,Tarrant,12/17/2009
+999566,Jean,Joseph,06/25/1972,M,Black,06/23/2011,Harris,04/11/2010
+999565,Turner,Albert,01/11/1965,M,Black,06/10/2011,Fort Bend,12/27/2009
+999564,Escobar,Areli,04/23/1979,M,Hispanic,05/26/2011,Travis,05/31/2009
+999563,Mullis,Travis,09/20/1986,M,White,05/23/2011,Galveston,01/29/2008
+999562,Robinson,Cortne,12/15/1990,M,Black,03/23/2011,Harrison,09/20/2009
+999561,Green,Gary,03/14/1971,M,Black,11/22/2010,Dallas,09/22/2009
+999560,Harper,Garland,12/11/1969,M,Black,10/22/2010,Harris,10/24/2008
+999559,Bess,Donald,09/01/1948,M,White,09/27/2010,Dallas,10/13/1984
+999558,Milam,Blaine,12/12/1989,M,White,06/11/2010,Rusk,12/02/2008
+999557,Thuesen,John,11/18/1983,M,White,05/28/2010,Brazos,03/06/2009
+999556,"Landor, III",Mabry,08/31/1980,M,Black,04/16/2010,Harris,12/07/2008
+999554,Gobert,Milton,11/02/1972,M,Black,03/11/2010,Travis,10/06/2003
+999553,Hernandez,Fabian,09/22/1975,M,Hispanic,02/09/2010,El Paso,11/03/2006
+999551,Miller,Demontrell,03/01/1987,M,Black,11/19/2009,Smith,06/01/2008
+999550,Devoe,Paul,08/31/1963,M,White,10/16/2009,Travis,08/02/2007
+999549,Broadnax,James,10/30/1988,M,Black,09/02/2009,Dallas,06/19/2008
+999548,Leza,Armando,11/10/1976,M,Hispanic,06/09/2009,Bexar,04/04/2007
+999547,Medina,Hector,08/24/1979,M,Hispanic,03/09/2009,Dallas,03/04/2004
+999544,Ramirez,John,06/29/1984,M,Hispanic,02/13/2009,Nueces,07/19/2004
+999543,Cortez,Raul,03/17/1981,M,Hispanic,02/04/2009,Collin,03/12/2004
+999542,Sparks,Robert,02/13/1974,M,Black,01/08/2009,Dallas,09/15/2007
+999541,Norman,LeJames,11/26/1985,M,Black,12/12/2008,Jackson,08/24/2005
+999538,Storey,Paul,10/11/1984,M,Black,9/16/2008,Tarrant,10/16/2006
+999537,Lucio,Melissa,7/18/1968,F,Hispanic,8/12/2008,Cameron,02/17/2007
+999536,Ruiz,Wesley,11/20/79,M,Hispanic,07/16/2008,Dallas,03/23/2007
+999535,Mays,Randall,08/03/1959,M,White,05/16/2008,Henderson,05/17/2007
+999531,Lizcano,Juan,11/24/1976,M,Hispanic,12/13/2007,Dallas,11/13/2005
+999529,Chanthakoummane,Kosoul,10/01/1980,M,Other,10/18/2007,Collin,07/08/2006
+999527,Johnson,Dexter,06/07/1988,M,Black,07/02/2007,Harris,06/18/2006
+999526,Gamboa,Joseph,09/11/1982,M,Hispanic,06/29/2007,Bexar,06/24/2005
+999524,Jackson,Christopher,05/22/1984,M,Black,04/19/2007,Harris,12/05/2005
+999523,Tabler,Richard,02/05/1979,M,White,04/05/2007,Bell,11/26/2004
+999520,Segundo,Juan,01/26/1963,M,Hispanic,02/15/2007,Tarrant,08/03/1986
+999519,Ramey,Ker'sean,06/04/1985,M,Black,01/31/2007,Jackson,08/24/2005
+999517,Carter,Tilon,12/07/1979,M,Black,12/12/2006,Tarrant,04/28/2004
+999516,Gardner,John,01/03/1956,M,White,11/20/2006,Collin,01/23/2005
+999515,Williams,Clifton,08/21/1983,M,Black,10/27/2006,Smith,07/09/2005
+999514,Long,Steven,08/17/1971,M,White,10/19/2006,Dallas,05/21/2005
+999513,Gonzales,Ramiro,11/05/1982,M,Hispanic,09/27/2006,Medina,01/15/2001
+999512,Smith,Demetrius,05/13/1977,M,Black,07/05/2006,Harris,03/24/2005
+999509,Luna,Joe,10/26/1979,M,Hispanic,04/25/2006,Bexar,02/17/2005
+999507,Barbee,Stephen,03/30/1967,M,White,02/27/2006,Tarrant,02/19/2005
+999506,"Busby, Jr.",Edward,07/25/1972,M,Black,11/18/2005,Tarrant,01/30/2004
+999505,Runnels,Travis,07/21/1976,M,Black,11/16/2005,Potter,01/29/2003
+999501,Medrano,Rodolfo,05/14/1979,M,Hispanic,09/08/2005,Hidalgo,01/05/2003
+999498,Mendoza,Moises,01/26/1984,M,Hispanic,07/01/2005,Collin,03/18/2004
+999497,Hall,Justen,06/16/1981,M,White,05/11/2005,El Paso,10/28/2002
+999495,Garza,Humberto,07/24/1974,M,Hispanic,03/31/2005,Hidalgo,01/05/2003
+999493,Thomas,Andre,03/17/1983,M,Black,03/16/2005,Grayson,03/27/2004
+999492,Joubert,Elijah,07/03/1979,M,Black,01/13/2005,Harris,04/03/2003
+999490,Ramirez,Juan,03/11/1984,M,Hispanic,12/23/2004,Hidalgo,01/05/2003
+999489,Marshall,Gerald,07/11/1982,M,Black,12/8/2004,Harris,05/11/2003
+999484,Beatty,Tracy,01/23/1961,M,White,08/13/2004,Smith,11/25/2003
+999482,Francois,Anthony,02/22/1968,M,Black,08/05/2004,Harris,09/11/2003
+999480,Cubas,Edgardo,02/07/1979,M,Hispanic,06/07/2004,Harris,01/16/2002
+999477,Reynosa,Juan,11/02/1979,M,Hispanic,05/21/2004,Harris,03/02/2003
+999476,Matthews,Damon,12/24/1984,M,Black,04/20/2004,Harris,03/06/2003
+999473,Allen,Guy,06/15/1963,M,Black,03/24/2004,Travis,04/03/2002
+999472,Irvan,William,07/11/1966,M,White,03/03/2004,Harris,02/14/1987
+999469,Gallo,Tomas,03/01/1975,M,Hispanic,02/24/2004,Harris,12/11/2003
+999465,Sorto,Walter,08/10/1977,M,Hispanic,12/11/2003,Harris,05/31/2002
+999464,Druery,Marcus,11/20/1979,M,Black,12/05/2003,Brazos,10/31/2002
+999462,Rubio,John,08/12/1980,M,Hispanic,11/24/2003,Cameron,03/11/2003
+999461,Murphy,Patrick,10/03/1961,M,White,11/20/2003,Dallas,12/24/2000
+999460,Renteria,David,11/22/1969,M,Other,11/20/2003,El Paso,11/18/2001
+999459,Crutsinger,Billy,10/05/1954,M,White,10/08/2003,Tarrant,04/06/2003
+999458,Freeney,Ray,12/21/1973,M,Black,09/27/2003,Harris,04/18/2002
+999453,Halprin,Randy,09/13/1977,M,White,06/12/2003,Dallas,12/24/2000
+999450,Ochoa,Abel,01/23/1973,M,Hispanic,05/15/2003,Dallas,08/04/2002
+999447,Young,Clinton,07/19/1983,M,White,04/15/2003,Midland,11/25/2001
+999446,Sales,Tarus,08/14/1979,M,Black,04/02/2003,Harris,07/21/2000
+999443,"Russell, Jr.",Pete,05/02/1973,M,Black,02/26/2003,Harris,08/13/2001
+999442,Roberson,Robert,11/10/1966,M,White,02/21/2003,Anderson,01/31/2002
+999441,Garcia,Joseph,11/6/1971,M,Hispanic,02/14/2003,Dallas,12/24/2000
+999436,Hamilton,Ronald,04/21/1977,M,Black,11/19/2002,Harris,11/07/2001
+999433,"Prible, Jr.",Ronald,04/18/1972,M,White,11/04/2002,Harris,04/24/1999
+999423,Davis,Irving,09/17/1982,M,Black,07/18/2002,El Paso,06/04/2001
+999420,Williams,Perry,09/22/1980,M,Black,06/25/2002,Harris,09/17/2000
+999416,Gutierrez,Geronimo,06/02/1977,M,Hispanic,05/21/2002,Bexar,05/29/1999
+999410,Austin,Perry,06/23/1959,M,White,04/25/2002,Harris,08/19/1992
+999406,Carty,Linda,10/05/1958,F,Black,03/07/2002,Harris,05/16/2001
+999402,"Will, II",Robert,06/29/1978,M,White,01/28/2002,Harris,12/04/2000
+999399,Cantu,Ivan,06/14/1973,M,Hispanic,11/08/2001,Collin,11/04/2000
+999398,Speer,William,09/29/1974,M,White,10/30/2001,Bowie,07/11/1997
+999396,Weathers,Obie,08/11/1981,M,Black,09/13/2001,Bexar,02/04/2000
+999393,"Braziel, Jr.",Alvin,03/16/1975,M,Black,08/09/2001,Dallas,09/21/1993
+999392,Murphy,Jedidiah,09/01/1975,M,White,07/26/2001,Dallas,10/04/2000
+999391,"Avila, Jr.",Rigoberto,08/05/1972,M,Hispanic,07/19/2001,El Paso,02/29/2000
+999390,Guevara,Gilmar,10/05/1969,M,Hispanic,06/26/2001,Harris,06/02/2000
+999388,Woodard,Robert,06/17/1980,M,Black,06/20/2001,Harris,02/12/2000
+999386,Allen,Kerry,07/21/1959,M,Black,05/30/2001,Harris,05/10/2000
+999383,Howard,Jamaal,02/08/1980,M,Black,04/26/2001,Hardin,05/12/2000
+999381,Acker,Daniel,10/09/1971,M,White,04/02/2001,Hopkins,03/12/2000
+999379,Jones,Quintin,07/15/1979,M,Black,03/16/2001,Tarrant,09/11/1999
+999376,Gates,Bill,09/07/1949,M,Black,02/21/2001,Harris,12/13/1999
+999373,Green,Travis,01/01/1968,M,Black,01/04/2001,Harris,09/02/1999
+999369,Tercero,Bernardo,08/20/1976,M,Hispanic,12/13/2000,Harris,03/31/1997
+999366,"Canales, Jr.",Anibal,12/01/1964,M,Hispanic,11/02/2000,Bowie,07/11/1997
+999361,Swearingen,Larry,05/21/1971,M,White,07/12/2000,Montgomery,12/08/1998
+999354,"Garza, Jr.",Joe,08/21/1971,M,Hispanic,04/18/2000,Lubbock,12/31/1998
+999351,Clark,Troy,09/02/1967,M,White,03/31/2000,Smith,05/19/1998
+999333,"Mamou, Jr.",Charles,12/06/1974,M,Black,11/17/1999,Harris,12/07/1998
+999332,Alvarez,Juan,03/09/1977,M,Hispanic,11/17/1999,Harris,06/06/1998
+999331,Wardrip,Faryion,03/06/1959,M,White,11/09/1999,Wichita,12/21/1984
+999330,Haynes,Anthony,01/22/1979,M,Black,11/03/1999,Harris,05/22/1998
+999328,Perez,Louis,01/08/1962,M,Hispanic,10/20/1999,Travis,09/10/1998
+999325,Ripkowski,Britt,10/31/1971,M,White,09/15/1999,Harris,12/25/1997
+999319,Vasquez,Richard,04/17/1979,M,Hispanic,06/24/1999,Nueces,03/05/1998
+999315,Balentine,John,01/30/1969,M,Black,06/11/1999,Potter,01/21/1998
+999308,Gutierrez,Ruben,06/10/1977,M,Hispanic,05/14/1999,Cameron,09/05/1998
+999306,Thompson,Charles,06/13/1970,M,White,05/05/1999,Harris,04/30/1998
+999305,Escobedo,Joel,02/06/1962,M,Hispanic,05/05/1999,Harris,05/31/1998
+999300,Carpenter,David,09/25/1967,M,White,04/08/1999,Dallas,08/28/1991
+999299,Flores,Charles,10/31/1969,M,Hispanic,04/02/1999,Dallas,01/29/1998
+999295,King,John,11/03/1974,M,White,02/25/1999,Jasper,06/07/1998
+999291,Rocha,Felix,05/07/1976,M,Hispanic,12/16/1998,Harris,11/26/1994
+999290,Gomez,Ignacio,12/02/1969,M,Hispanic,12/10/1998,El Paso,11/23/1996
+999283,Burton,Arthur,03/29/1970,M,Black,09/16/1998,Harris,07/29/1997
+999282,Bartee,Anthony,03/08/1957,M,Black,09/03/1998,Bexar,08/15/1996
+999279,Murphy,Julius,10/25/1978,M,Black,08/18/1998,Bowie,09/19/1997
+999271,Reed,Rodney,12/22/1967,M,Black,05/29/1998,Bastrop,04/23/1996
+999267,Bridgers,Allen,03/06/1971,M,Black,05/14/1998,Smith,05/25/1997
+999260,Tong,Chuong,10/21/1976,M,Other,04/01/1998,Harris,04/06/1997
+999259,Estrada,Larry,01/13/1979,M,Hispanic,04/01/1998,Harris,02/21/1997
+999258,Holberg,Brittany,01/01/1973,F,White,03/27/1998,Randall,11/13/1996
+999256,Wood,Jeffery,08/19/1973,M,White,03/03/1998,Bandera,03/03/1998
+999248,Dennes,Reinaldo,02/09/1956,M,Hispanic,12/18/1997,Harris,01/24/1996
+999247,Ibarra,Ramiro,05/10/1954,M,Hispanic,12/10/1997,McLennan,03/06/1987
+999240,Ayestas,Carlos,07/30/1969,M,Hispanic,09/17/1997,Harris,09/09/1995
+999235,Trevino,Carlos,01/28/1974,M,Hispanic,08/06/1997,Bexar,06/10/1996
+999228,Cathey,Eric,07/29/1971,M,Black,04/29/1997,Harris,09/12/1995
+999226,Guidry,Howard,04/15/1976,M,Black,04/16/1997,Harris,11/19/1994
+999220,Routier,Darlie,01/04/1970,F,White,02/05/1997,Dallas,06/06/1996
+999208,Slater,Paul,03/29/1974,M,Black,11/01/1996,Harris,07/19/1995
+999207,Villanueva,Jorge,12/18/1954,M,Hispanic,11/01/1996,Harris,08/28/1994
+999205,White,Garcia,02/04/1963,M,Black,09/13/1996,Harris,12/02/1989
+999204,Medina,Anthony,11/05/1974,M,Hispanic,09/13/1996,Harris,01/01/1996
+999203,Saldano,Victor,10/22/1971,M,Hispanic,09/12/1996,Collin,11/25/1996
+999202,Prystash,Joseph,09/05/1956,M,White,08/02/1996,Harris,11/09/1994
+999192,Melendez,Pablo,11/16/1975,M,Hispanic,05/21/1996,Tarrant,09/01/1994
+999189,Fratta,Robert,02/22/1957,M,White,05/03/1996,Harris,11/09/1994
+999181,Hatten,Larry,08/31/1974,M,Black,02/09/1996,Nueces,09/09/1995
+999174,Gonzales,Michael,09/01/1973,M,Hispanic,12/11/1995,Ector,04/21/1994
+999164,Panetti,Scott,02/28/1958,M,White,09/25/1995,Kerr,09/08/1992
+999144,Sheppard,Erica,09/01/1973,F,Black,04/25/1995,Harris,06/30/1993
+999143,Skinner,Henry,04/04/1962,M,White,03/31/1995,Tarrant,12/31/1993
+999137,Wardlow,Billy,11/25/1974,M,White,02/13/1995,Titus,06/14/1993
+999110,Brown,Arthur,08/14/1970,M,Black,06/30/1994,Harris,06/20/1992
+999109,Raby,Charles,03/22/1970,M,White,06/30/1994,Harris,10/15/1992
+999108,Eldridge,Gerald,03/04/1964,M,Black,06/24/1994,Harris,01/04/1993
+999105,Henderson,James,03/12/1973,M,Black,06/08/1994,Bowie,10/29/1993
+999102,Rivera,Jose,12/23/1962,M,Hispanic,06/03/1994,Cameron,07/09/1993
+999075,Ford,Tony,06/19/1973,M,Black,10/14/1993,El Paso,12/18/1991
+999062,Ramos,Robert,05/23/1954,M,Hispanic,05/06/1993,Hidalgo,02/07/1992
+999051,Wood,David,06/20/1957,M,White,01/14/1993,Dallas,05/30/1987
+999049,Rhoades,Rick,05/10/1964,M,White,12/31/1992,Harris,09/13/1991
+999046,McFarland,George,08/25/1960,M,Black,09/29/1992,Harris,09/12/1991
+999044,Broxton,Eugene,02/27/1955,M,Black,09/18/1992,Harris,05/16/1991
+999040,Mason,William,01/03/1954,M,White,08/12/1992,Harris,01/17/1991
+999036,Davis,Brian,08/28/1968,M,White,07/17/1992,Harris,08/10/1991
+999020,Wheatfall,Daryl,12/20/1965,M,Black,01/28/1992,Harris,12/13/1990
+999019,Jones,Shelton,11/24/1967,M,Black,01/09/1992,Harris,04/07/1991
+999006,Staley,Steven,07/30/1962,M,White,08/02/1991,Tarrant,10/14/1989
+999000,Brewer,Brent,05/26/1970,M,White,06/04/1991,Randall,04/26/1990
+993,Buntion,Carl,03/30/1940,M,White,03/06/1991,Harris,06/27/1990
+992,Robertson,Mark,05/28/1968,M,White,02/27/1991,Dallas,08/19/1989
+976,Coble,Billie,09/09/1948,M,White,06/14/1990,McLennan,08/29/1989
+956,Jennings,Robert,12/03/1957,M,Black,11/10/1989,Harris,07/19/1988
+928,Rivers,Warren,03/31/1967,M,Black,12/29/1988,Harris,05/03/1987
+925,Butler,Steven,04/05/1962,M,Black,12/02/1988,Harris,08/27/1986
+910,Rabbani,Syed,06/12/1965,M,Other,07/25/1988,Harris,11/01/1987
+909,Kemp,Emanuel,09/19/1965,M,Black,07/06/1988,Tarrant,05/28/1987
+869,Thomas,Kenneth,02/24/1961,M,Black,05/14/1987,Dallas,03/16/1986
+868,Mooney,Nelson,08/19/1955,M,White,05/07/1987,Liberty,08/18/1984
+866,Lewis,David,05/31/1965,M,White,04/15/1987,Angelina,11/30/1986
+856,Washington,Willie,01/12/1959,M,Black,12/11/1986,Harris,12/18/1985
+736,Williams,Arthur,10/05/1959,M,Black,05/06/1983,Harris,04/28/1982
+663,Moore,Bobby,10/29/1959,M,Black,07/24/1980,Harris,04/25/1980
+650,Fierro,Cesar,10/18/1956,M,Hispanic,02/26/1980,El Paso,02/27/1979
+636,Aranda,Arturo,05/12/1948,M,Hispanic,05/18/1979,Victoria,07/31/1976
+609,Jordan,Clarence,04/06/1956,M,Black,09/12/1978,Harris,10/14/1977
+577,Earvin,Harvey,04/07/1958,M,Black,10/26/1977,Angelina,12/12/1976
+541,Riles,Raymond,06/01/1950,M,Black,02/04/1976,Harris,04/11/1975

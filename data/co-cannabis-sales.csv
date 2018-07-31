@@ -1,0 +1,3554 @@
+month,year,county,amount,sales_type
+4,2016,Adams,387146.0,medical
+4,2016,Adams,3187313.0,retail
+4,2016,Alamosa,,medical
+4,2016,Arapahoe,7531661.0,retail
+4,2016,Arapahoe,1682301.0,medical
+4,2016,Archuleta,,retail
+4,2016,Archuleta,,medical
+4,2016,Boulder,5082136.0,retail
+4,2016,Boulder,2706731.0,medical
+4,2016,Chaffee,300638.0,retail
+4,2016,Chaffee,,medical
+4,2016,Clear Creek,423714.0,retail
+4,2016,Clear Creek,80570.0,medical
+4,2016,Conejos,221411.0,retail
+4,2016,Costilla,,medical
+4,2016,Costilla,184198.0,retail
+4,2016,Denver,17690729.0,medical
+4,2016,Denver,22606396.0,retail
+4,2016,Eagle,231691.0,medical
+4,2016,Eagle,820436.0,retail
+4,2016,El Paso,8357949.0,medical
+4,2016,El Paso,,retail
+4,2016,Fremont,217581.0,medical
+4,2016,Garfield,1153014.0,retail
+4,2016,Garfield,468925.0,medical
+4,2016,Gilpin,190800.0,retail
+4,2016,Gilpin,,medical
+4,2016,Grand,233601.0,retail
+4,2016,Grand,,medical
+4,2016,Gunnison,325678.0,retail
+4,2016,Gunnison,,medical
+4,2016,Huerfano,,retail
+4,2016,Jefferson,1727954.0,medical
+4,2016,Jefferson,3572554.0,retail
+4,2016,La Plata,410448.0,medical
+4,2016,Lake,,retail
+4,2016,Larimer,1388304.0,medical
+4,2016,La Plata,1598561.0,retail
+4,2016,Las Animas,,medical
+4,2016,Larimer,3233416.0,retail
+4,2016,Mesa,,medical
+4,2016,Las Animas,1258520.0,retail
+4,2016,Moffat,,medical
+4,2016,Mesa,,retail
+4,2016,Montezuma,114171.0,medical
+4,2016,Montezuma,727306.0,retail
+4,2016,Montrose,,medical
+4,2016,Morgan,,retail
+4,2016,Morgan,,medical
+4,2016,Ouray,,retail
+4,2016,Ouray,,medical
+4,2016,Park,199423.0,retail
+4,2016,Park,,medical
+4,2016,Pitkin,501414.0,retail
+4,2016,Pitkin,88482.0,medical
+4,2016,Pueblo,2069169.0,retail
+4,2016,Pueblo,1248985.0,medical
+4,2016,Routt,550366.0,retail
+4,2016,Routt,188783.0,medical
+4,2016,Saguache,,retail
+4,2016,San Miguel,44771.0,medical
+4,2016,San Juan,,retail
+4,2016,Sedgwick,,medical
+4,2016,San Miguel,138111.0,retail
+4,2016,Summit,201583.0,medical
+4,2016,Sedgwick,,retail
+4,2016,Teller,,medical
+4,2016,Summit,1391044.0,retail
+4,2016,Weld,425780.0,medical
+4,2016,Weld,2029498.0,retail
+4,2016,Sum of NR Counties,631619.0,medical
+4,2016,Sum of NR Counties,4310950.0,retail
+10,2016,Adams,416490.0,medical
+10,2016,Adams,4578245.0,retail
+10,2016,Alamosa,,medical
+10,2016,Arapahoe,8954428.0,retail
+10,2016,Arapahoe,1472572.0,medical
+10,2016,Archuleta,,retail
+10,2016,Archuleta,,medical
+10,2016,Boulder,5993882.0,retail
+10,2016,Boulder,2202702.0,medical
+10,2016,Chaffee,352254.0,retail
+10,2016,Chaffee,,medical
+10,2016,Clear Creek,486814.0,retail
+10,2016,Clear Creek,69509.0,medical
+10,2016,Conejos,380038.0,retail
+10,2016,Costilla,,medical
+10,2016,Costilla,265876.0,retail
+10,2016,Denver,17196445.0,medical
+10,2016,Denver,28578229.0,retail
+10,2016,Eagle,173346.0,medical
+10,2016,Eagle,852099.0,retail
+10,2016,El Paso,8569109.0,medical
+10,2016,El Paso,,retail
+10,2016,Fremont,189039.0,medical
+10,2016,Garfield,1608072.0,retail
+10,2016,Garfield,342751.0,medical
+10,2016,Gilpin,253131.0,retail
+10,2016,Gilpin,,medical
+10,2016,Grand,258512.0,retail
+10,2016,Grand,,medical
+10,2016,Gunnison,481440.0,retail
+10,2016,Gunnison,,medical
+10,2016,Huerfano,,retail
+10,2016,Jefferson,1637140.0,medical
+10,2016,Jefferson,4226976.0,retail
+10,2016,La Plata,376178.0,medical
+10,2016,Lake,198027.0,retail
+10,2016,Larimer,1303215.0,medical
+10,2016,La Plata,1954316.0,retail
+10,2016,Las Animas,,medical
+10,2016,Larimer,4204839.0,retail
+10,2016,Mesa,,medical
+10,2016,Las Animas,2343718.0,retail
+10,2016,Moffat,,medical
+10,2016,Mesa,,retail
+10,2016,Montezuma,65684.0,medical
+10,2016,Montezuma,1412949.0,retail
+10,2016,Montrose,,medical
+10,2016,Morgan,621119.0,retail
+10,2016,Morgan,,medical
+10,2016,Ouray,404670.0,retail
+10,2016,Ouray,,medical
+10,2016,Park,304140.0,retail
+10,2016,Park,,medical
+10,2016,Pitkin,527278.0,retail
+10,2016,Pitkin,71227.0,medical
+10,2016,Pueblo,2730719.0,retail
+10,2016,Pueblo,645119.0,medical
+10,2016,Routt,665803.0,retail
+10,2016,Routt,205695.0,medical
+10,2016,Saguache,,retail
+10,2016,San Miguel,40475.0,medical
+10,2016,San Juan,,retail
+10,2016,Sedgwick,,medical
+10,2016,San Miguel,242681.0,retail
+10,2016,Summit,156993.0,medical
+10,2016,Sedgwick,,retail
+10,2016,Teller,,medical
+10,2016,Summit,1235632.0,retail
+10,2016,Weld,242582.0,medical
+10,2016,Weld,2535546.0,retail
+10,2016,Sum of NR Counties,564284.0,medical
+10,2016,Sum of NR Counties,4043880.0,retail
+6,2014,Adams,433176.0,medical
+6,2014,Adams,,retail
+6,2014,Alamosa,,medical
+6,2014,Boulder,2593735.0,retail
+6,2014,Arapahoe,1425313.0,medical
+6,2014,Clear Creek,396938.0,retail
+6,2014,Archuleta,,medical
+6,2014,Denver,12245778.0,retail
+6,2014,Boulder,2507058.0,medical
+6,2014,Eagle,,retail
+6,2014,Chaffee,96647.0,medical
+6,2014,Garfield,392391.0,retail
+6,2014,Clear Creek,97965.0,medical
+6,2014,Gilpin,145630.0,retail
+6,2014,Costilla,,medical
+6,2014,Gunnison,,retail
+6,2014,Denver,13476218.0,medical
+6,2014,Jefferson,1445315.0,retail
+6,2014,Eagle,132878.0,medical
+6,2014,Lake,,retail
+6,2014,El Paso,5342494.0,medical
+6,2014,Larimer,,retail
+6,2014,Fremont,228665.0,medical
+6,2014,Ouray,,retail
+6,2014,Garfield,418280.0,medical
+6,2014,Park,,retail
+6,2014,Gilpin,38278.0,medical
+6,2014,Pitkin,322473.0,retail
+6,2014,Grand,,medical
+6,2014,Pueblo,1571864.0,retail
+6,2014,Gunnison,,medical
+6,2014,Routt,,retail
+6,2014,Jefferson,1889080.0,medical
+6,2014,San Miguel,451452.0,retail
+6,2014,La Plata,544589.0,medical
+6,2014,Sedgwick,,retail
+6,2014,Larimer,1112079.0,medical
+6,2014,Summit,686139.0,retail
+6,2014,Mesa,,medical
+6,2014,Weld,795293.0,retail
+6,2014,Moffat,,medical
+6,2014,Sum of NR Counties,2931074.0,retail
+6,2014,Montezuma,115548.0,medical
+6,2014,Montrose,,medical
+6,2014,Ouray,,medical
+6,2014,Park,,medical
+6,2014,Pitkin,110679.0,medical
+6,2014,Pueblo,403341.0,medical
+6,2014,Routt,,medical
+6,2014,Saguache,,medical
+6,2014,San Miguel,75455.0,medical
+6,2014,Sedgwick,,medical
+6,2014,Summit,203354.0,medical
+6,2014,Teller,,medical
+6,2014,Weld,470633.0,medical
+6,2014,Sum of NR Counties,828579.0,medical
+12,2014,Adams,470394.0,medical
+12,2014,Adams,1445817.0,retail
+12,2014,Alamosa,,medical
+12,2014,Arapahoe,1416559.0,retail
+12,2014,Arapahoe,1498465.0,medical
+12,2014,Archuleta,,retail
+12,2014,Archuleta,,medical
+12,2014,Boulder,3592405.0,retail
+12,2014,Boulder,2548354.0,medical
+12,2014,Chaffee,,retail
+12,2014,Chaffee,,medical
+12,2014,Clear Creek,371997.0,retail
+12,2014,Clear Creek,83182.0,medical
+12,2014,Costilla,,retail
+12,2014,Costilla,,medical
+12,2014,Denver,14797861.0,retail
+12,2014,Denver,12138739.0,medical
+12,2014,Eagle,710631.0,retail
+12,2014,Eagle,277950.0,medical
+12,2014,El Paso,,retail
+12,2014,El Paso,5517533.0,medical
+12,2014,Garfield,560065.0,retail
+12,2014,Fremont,178729.0,medical
+12,2014,Gilpin,103121.0,retail
+12,2014,Garfield,283365.0,medical
+12,2014,Grand,,retail
+12,2014,Gilpin,34112.0,medical
+12,2014,Gunnison,228173.0,retail
+12,2014,Grand,,medical
+12,2014,Jefferson,1990092.0,retail
+12,2014,Gunnison,,medical
+12,2014,Lake,,retail
+12,2014,Jefferson,1832756.0,medical
+12,2014,La Plata,838948.0,retail
+12,2014,La Plata,497203.0,medical
+12,2014,Larimer,1613144.0,retail
+12,2014,Larimer,1316194.0,medical
+12,2014,Las Animas,,retail
+12,2014,Las Animas,,medical
+12,2014,Montezuma,,retail
+12,2014,Mesa,,medical
+12,2014,Morgan,,retail
+12,2014,Moffat,,medical
+12,2014,Ouray,,retail
+12,2014,Montezuma,117849.0,medical
+12,2014,Park,,retail
+12,2014,Montrose,,medical
+12,2014,Pitkin,599569.0,retail
+12,2014,Morgan,,medical
+12,2014,Pueblo,1158670.0,retail
+12,2014,Ouray,,medical
+12,2014,Routt,493734.0,retail
+12,2014,Park,,medical
+12,2014,Saguache,,retail
+12,2014,Pitkin,84226.0,medical
+12,2014,San Miguel,292834.0,retail
+12,2014,Pueblo,399460.0,medical
+12,2014,Sedgwick,,retail
+12,2014,Routt,169025.0,medical
+12,2014,Summit,1256397.0,retail
+12,2014,San Miguel,43788.0,medical
+12,2014,Weld,1071049.0,retail
+12,2014,Sedgwick,,medical
+12,2014,Sum of NR Counties,2038379.0,retail
+12,2014,Summit,205226.0,medical
+12,2014,Teller,,medical
+12,2014,Weld,394521.0,medical
+12,2014,Sum of NR Counties,569648.0,medical
+7,2014,Adams,452488.0,medical
+7,2014,Adams,,retail
+7,2014,Alamosa,,medical
+7,2014,Boulder,3192671.0,retail
+7,2014,Arapahoe,1470823.0,medical
+7,2014,Clear Creek,473299.0,retail
+7,2014,Archuleta,,medical
+7,2014,Denver,14518417.0,retail
+7,2014,Boulder,2547883.0,medical
+7,2014,Eagle,,retail
+7,2014,Chaffee,92938.0,medical
+7,2014,El Paso,,retail
+7,2014,Clear Creek,108796.0,medical
+7,2014,Garfield,403958.0,retail
+7,2014,Costilla,,medical
+7,2014,Gilpin,160328.0,retail
+7,2014,Denver,14083010.0,medical
+7,2014,Gunnison,307664.0,retail
+7,2014,Eagle,165132.0,medical
+7,2014,Jefferson,1699749.0,retail
+7,2014,El Paso,5895119.0,medical
+7,2014,Lake,,retail
+7,2014,Fremont,250084.0,medical
+7,2014,Larimer,1083910.0,retail
+7,2014,Garfield,446439.0,medical
+7,2014,Ouray,,retail
+7,2014,Gilpin,36110.0,medical
+7,2014,Park,,retail
+7,2014,Grand,,medical
+7,2014,Pitkin,505148.0,retail
+7,2014,Gunnison,,medical
+7,2014,Pueblo,1985679.0,retail
+7,2014,Jefferson,1913729.0,medical
+7,2014,Routt,,retail
+7,2014,La Plata,604088.0,medical
+7,2014,Saguache,,retail
+7,2014,Larimer,1087000.0,medical
+7,2014,San Miguel,548213.0,retail
+7,2014,Mesa,,medical
+7,2014,Sedgwick,,retail
+7,2014,Moffat,,medical
+7,2014,Summit,981349.0,retail
+7,2014,Montezuma,120802.0,medical
+7,2014,Weld,1168267.0,retail
+7,2014,Montrose,,medical
+7,2014,Sum of NR Counties,2838140.0,retail
+7,2014,Ouray,,medical
+7,2014,Park,,medical
+7,2014,Pitkin,117930.0,medical
+7,2014,Pueblo,459326.0,medical
+7,2014,Routt,,medical
+7,2014,Saguache,,medical
+7,2014,San Miguel,49131.0,medical
+7,2014,Sedgwick,,medical
+7,2014,Summit,189746.0,medical
+7,2014,Teller,,medical
+7,2014,Weld,303374.0,medical
+7,2014,Sum of NR Counties,743675.0,medical
+11,2016,Adams,529977.0,medical
+11,2016,Adams,4396031.0,retail
+11,2016,Alamosa,,medical
+11,2016,Arapahoe,8514717.0,retail
+11,2016,Arapahoe,1458869.0,medical
+11,2016,Archuleta,,retail
+11,2016,Archuleta,,medical
+11,2016,Boulder,5444937.0,retail
+11,2016,Boulder,2099029.0,medical
+11,2016,Chaffee,308023.0,retail
+11,2016,Chaffee,,medical
+11,2016,Clear Creek,431209.0,retail
+11,2016,Clear Creek,70063.0,medical
+11,2016,Conejos,320078.0,retail
+11,2016,Costilla,,medical
+11,2016,Costilla,228406.0,retail
+11,2016,Denver,17182972.0,medical
+11,2016,Denver,26146211.0,retail
+11,2016,Eagle,150334.0,medical
+11,2016,Eagle,886933.0,retail
+11,2016,El Paso,8011818.0,medical
+11,2016,El Paso,,retail
+11,2016,Fremont,,medical
+11,2016,Garfield,1372095.0,retail
+11,2016,Garfield,317199.0,medical
+11,2016,Gilpin,187219.0,retail
+11,2016,Gilpin,,medical
+11,2016,Grand,250357.0,retail
+11,2016,Grand,,medical
+11,2016,Gunnison,390416.0,retail
+11,2016,Gunnison,,medical
+11,2016,Huerfano,,retail
+11,2016,Jefferson,1474361.0,medical
+11,2016,Jefferson,3935409.0,retail
+11,2016,La Plata,339564.0,medical
+11,2016,La Plata,1718599.0,retail
+11,2016,Larimer,1211727.0,medical
+11,2016,Lake,,retail
+11,2016,Las Animas,,medical
+11,2016,Larimer,3964140.0,retail
+11,2016,Mesa,,medical
+11,2016,Las Animas,2305460.0,retail
+11,2016,Moffat,,medical
+11,2016,Mesa,,retail
+11,2016,Montezuma,62866.0,medical
+11,2016,Montezuma,1212346.0,retail
+11,2016,Montrose,,medical
+11,2016,Morgan,558715.0,retail
+11,2016,Morgan,,medical
+11,2016,Ouray,298217.0,retail
+11,2016,Ouray,,medical
+11,2016,Park,277990.0,retail
+11,2016,Park,,medical
+11,2016,Pitkin,445008.0,retail
+11,2016,Pitkin,60322.0,medical
+11,2016,Pueblo,2583047.0,retail
+11,2016,Pueblo,659236.0,medical
+11,2016,Routt,593501.0,retail
+11,2016,Routt,168346.0,medical
+11,2016,Saguache,,retail
+11,2016,San Miguel,30453.0,medical
+11,2016,San Juan,,retail
+11,2016,Sedgwick,,medical
+11,2016,San Miguel,146596.0,retail
+11,2016,Summit,,medical
+11,2016,Sedgwick,,retail
+11,2016,Teller,,medical
+11,2016,Summit,1314039.0,retail
+11,2016,Weld,,medical
+11,2016,Weld,2417762.0,retail
+11,2016,Sum of NR Counties,1012303.0,medical
+11,2016,Sum of NR Counties,3735431.0,retail
+5,2016,Adams,391906.0,medical
+5,2016,Adams,3360096.0,retail
+5,2016,Alamosa,,medical
+5,2016,Arapahoe,7426175.0,retail
+5,2016,Arapahoe,1511924.0,medical
+5,2016,Archuleta,,retail
+5,2016,Archuleta,,medical
+5,2016,Boulder,5315292.0,retail
+5,2016,Boulder,2436555.0,medical
+5,2016,Chaffee,333276.0,retail
+5,2016,Chaffee,,medical
+5,2016,Clear Creek,452848.0,retail
+5,2016,Clear Creek,83258.0,medical
+5,2016,Conejos,257716.0,retail
+5,2016,Costilla,,medical
+5,2016,Costilla,223862.0,retail
+5,2016,Denver,17833330.0,medical
+5,2016,Denver,21615189.0,retail
+5,2016,Eagle,194685.0,medical
+5,2016,Eagle,650881.0,retail
+5,2016,El Paso,8343490.0,medical
+5,2016,El Paso,,retail
+5,2016,Fremont,207499.0,medical
+5,2016,Garfield,1210134.0,retail
+5,2016,Garfield,526740.0,medical
+5,2016,Gilpin,225826.0,retail
+5,2016,Gilpin,,medical
+5,2016,Grand,189787.0,retail
+5,2016,Grand,,medical
+5,2016,Gunnison,344705.0,retail
+5,2016,Gunnison,,medical
+5,2016,Huerfano,,retail
+5,2016,Jefferson,1679965.0,medical
+5,2016,Jefferson,3572041.0,retail
+5,2016,La Plata,400259.0,medical
+5,2016,Lake,147684.0,retail
+5,2016,Larimer,1292029.0,medical
+5,2016,La Plata,1740113.0,retail
+5,2016,Las Animas,,medical
+5,2016,Larimer,3465166.0,retail
+5,2016,Mesa,,medical
+5,2016,Las Animas,1456567.0,retail
+5,2016,Moffat,,medical
+5,2016,Mesa,,retail
+5,2016,Montezuma,100642.0,medical
+5,2016,Montezuma,842550.0,retail
+5,2016,Montrose,,medical
+5,2016,Morgan,543167.0,retail
+5,2016,Morgan,,medical
+5,2016,Ouray,325887.0,retail
+5,2016,Ouray,,medical
+5,2016,Park,237775.0,retail
+5,2016,Park,,medical
+5,2016,Pitkin,392581.0,retail
+5,2016,Pitkin,80601.0,medical
+5,2016,Pueblo,2184317.0,retail
+5,2016,Pueblo,1262557.0,medical
+5,2016,Routt,514632.0,retail
+5,2016,Routt,,medical
+5,2016,Saguache,,retail
+5,2016,San Miguel,37042.0,medical
+5,2016,San Juan,,retail
+5,2016,Sedgwick,,medical
+5,2016,San Miguel,157740.0,retail
+5,2016,Summit,161710.0,medical
+5,2016,Sedgwick,,retail
+5,2016,Teller,,medical
+5,2016,Summit,991298.0,retail
+5,2016,Weld,360773.0,medical
+5,2016,Weld,2043048.0,retail
+5,2016,Sum of NR Counties,731330.0,medical
+5,2016,Sum of NR Counties,3610718.0,retail
+7,2016,Adams,407856.0,medical
+7,2016,Adams,4154813.0,retail
+7,2016,Alamosa,,medical
+7,2016,Arapahoe,8738376.0,retail
+7,2016,Arapahoe,1544755.0,medical
+7,2016,Archuleta,,retail
+7,2016,Archuleta,,medical
+7,2016,Boulder,6365624.0,retail
+7,2016,Boulder,2288359.0,medical
+7,2016,Chaffee,,retail
+7,2016,Chaffee,,medical
+7,2016,Clear Creek,672704.0,retail
+7,2016,Clear Creek,69153.0,medical
+7,2016,Conejos,436196.0,retail
+7,2016,Costilla,,medical
+7,2016,Costilla,383906.0,retail
+7,2016,Denver,19516909.0,medical
+7,2016,Denver,25938973.0,retail
+7,2016,Eagle,203569.0,medical
+7,2016,Eagle,1111856.0,retail
+7,2016,El Paso,9016410.0,medical
+7,2016,El Paso,,retail
+7,2016,Fremont,229800.0,medical
+7,2016,Garfield,1628885.0,retail
+7,2016,Garfield,443929.0,medical
+7,2016,Gilpin,267260.0,retail
+7,2016,Gilpin,,medical
+7,2016,Grand,381080.0,retail
+7,2016,Grand,,medical
+7,2016,Gunnison,459794.0,retail
+7,2016,Gunnison,,medical
+7,2016,Huerfano,,retail
+7,2016,Jefferson,1706015.0,medical
+7,2016,Jefferson,4318330.0,retail
+7,2016,La Plata,429948.0,medical
+7,2016,Lake,274691.0,retail
+7,2016,Larimer,1355537.0,medical
+7,2016,La Plata,2306604.0,retail
+7,2016,Las Animas,,medical
+7,2016,Larimer,4181160.0,retail
+7,2016,Mesa,,medical
+7,2016,Las Animas,2179979.0,retail
+7,2016,Moffat,,medical
+7,2016,Mesa,,retail
+7,2016,Montezuma,104162.0,medical
+7,2016,Montezuma,1187679.0,retail
+7,2016,Montrose,,medical
+7,2016,Morgan,634140.0,retail
+7,2016,Morgan,,medical
+7,2016,Ouray,505470.0,retail
+7,2016,Ouray,,medical
+7,2016,Park,381198.0,retail
+7,2016,Park,,medical
+7,2016,Pitkin,1062245.0,retail
+7,2016,Pitkin,97253.0,medical
+7,2016,Pueblo,2995085.0,retail
+7,2016,Pueblo,1351605.0,medical
+7,2016,Routt,882414.0,retail
+7,2016,Routt,157223.0,medical
+7,2016,Saguache,,retail
+7,2016,San Miguel,43759.0,medical
+7,2016,San Juan,,retail
+7,2016,Sedgwick,,medical
+7,2016,San Miguel,446217.0,retail
+7,2016,Summit,170367.0,medical
+7,2016,Sedgwick,,retail
+7,2016,Teller,,medical
+7,2016,Summit,1760408.0,retail
+7,2016,Weld,335697.0,medical
+7,2016,Weld,2381224.0,retail
+7,2016,Sum of NR Counties,657679.0,medical
+7,2016,Sum of NR Counties,5442136.0,retail
+11,2014,Adams,480189.0,medical
+11,2014,Adams,1304091.0,retail
+11,2014,Alamosa,,medical
+11,2014,Arapahoe,805369.0,retail
+11,2014,Arapahoe,1345048.0,medical
+11,2014,Archuleta,,retail
+11,2014,Archuleta,,medical
+11,2014,Boulder,3196349.0,retail
+11,2014,Boulder,2400813.0,medical
+11,2014,Chaffee,,retail
+11,2014,Chaffee,,medical
+11,2014,Clear Creek,298012.0,retail
+11,2014,Clear Creek,91727.0,medical
+11,2014,Costilla,,retail
+11,2014,Costilla,,medical
+11,2014,Denver,13742869.0,retail
+11,2014,Denver,13469383.0,medical
+11,2014,Eagle,373883.0,retail
+11,2014,Eagle,210732.0,medical
+11,2014,El Paso,,retail
+11,2014,El Paso,5223552.0,medical
+11,2014,Garfield,507297.0,retail
+11,2014,Fremont,159257.0,medical
+11,2014,Gilpin,,retail
+11,2014,Garfield,318967.0,medical
+11,2014,Grand,,retail
+11,2014,Gilpin,,medical
+11,2014,Gunnison,133062.0,retail
+11,2014,Grand,,medical
+11,2014,Jefferson,1679786.0,retail
+11,2014,Gunnison,,medical
+11,2014,Lake,,retail
+11,2014,Jefferson,1837165.0,medical
+11,2014,La Plata,647493.0,retail
+11,2014,La Plata,459409.0,medical
+11,2014,Larimer,1493948.0,retail
+11,2014,Larimer,1185998.0,medical
+11,2014,Las Animas,,retail
+11,2014,Mesa,,medical
+11,2014,Morgan,,retail
+11,2014,Moffat,,medical
+11,2014,Ouray,,retail
+11,2014,Montezuma,,medical
+11,2014,Park,,retail
+11,2014,Montrose,,medical
+11,2014,Pitkin,216781.0,retail
+11,2014,Morgan,,medical
+11,2014,Pueblo,1137217.0,retail
+11,2014,Ouray,,medical
+11,2014,Routt,,retail
+11,2014,Park,,medical
+11,2014,Saguache,,retail
+11,2014,Pitkin,72294.0,medical
+11,2014,San Miguel,169659.0,retail
+11,2014,Pueblo,324106.0,medical
+11,2014,Sedgwick,,retail
+11,2014,Routt,,medical
+11,2014,Summit,706675.0,retail
+11,2014,San Miguel,26291.0,medical
+11,2014,Weld,992006.0,retail
+11,2014,Sedgwick,,medical
+11,2014,Sum of NR Counties,2065629.0,retail
+11,2014,Summit,163698.0,medical
+11,2014,Teller,,medical
+11,2014,Weld,416639.0,medical
+11,2014,Sum of NR Counties,793194.0,medical
+5,2014,Adams,467977.0,medical
+5,2014,Adams,,retail
+5,2014,Alamosa,,medical
+5,2014,Boulder,2354205.0,retail
+5,2014,Arapahoe,1511922.0,medical
+5,2014,Clear Creek,320076.0,retail
+5,2014,Archuleta,,medical
+5,2014,Denver,11300905.0,retail
+5,2014,Boulder,2823124.0,medical
+5,2014,Eagle,,retail
+5,2014,Chaffee,88974.0,medical
+5,2014,Garfield,292839.0,retail
+5,2014,Clear Creek,97349.0,medical
+5,2014,Gilpin,116815.0,retail
+5,2014,Costilla,,medical
+5,2014,Gunnison,,retail
+5,2014,Denver,14150620.0,medical
+5,2014,Jefferson,1435895.0,retail
+5,2014,Eagle,146126.0,medical
+5,2014,Lake,,retail
+5,2014,El Paso,5518910.0,medical
+5,2014,Larimer,,retail
+5,2014,Fremont,239918.0,medical
+5,2014,Ouray,,retail
+5,2014,Garfield,434235.0,medical
+5,2014,Park,,retail
+5,2014,Gilpin,42979.0,medical
+5,2014,Pitkin,185390.0,retail
+5,2014,Grand,,medical
+5,2014,Pueblo,1417017.0,retail
+5,2014,Gunnison,,medical
+5,2014,Routt,,retail
+5,2014,Jefferson,2037535.0,medical
+5,2014,San Miguel,257276.0,retail
+5,2014,La Plata,561810.0,medical
+5,2014,Summit,545898.0,retail
+5,2014,Larimer,1116171.0,medical
+5,2014,Weld,694205.0,retail
+5,2014,Mesa,,medical
+5,2014,Sum of NR Counties,2454480.0,retail
+5,2014,Moffat,,medical
+5,2014,Montezuma,120385.0,medical
+5,2014,Montrose,,medical
+5,2014,Ouray,,medical
+5,2014,Park,,medical
+5,2014,Pitkin,95001.0,medical
+5,2014,Pueblo,452196.0,medical
+5,2014,Routt,159620.0,medical
+5,2014,San Miguel,49679.0,medical
+5,2014,Sedgwick,,medical
+5,2014,Summit,201566.0,medical
+5,2014,Teller,,medical
+5,2014,Weld,516873.0,medical
+5,2014,Sum of NR Counties,522238.0,medical
+4,2014,Adams,452636.0,medical
+4,2014,Adams,,retail
+4,2014,Alamosa,,medical
+4,2014,Boulder,1835900.0,retail
+4,2014,Arapahoe,1517828.0,medical
+4,2014,Clear Creek,369117.0,retail
+4,2014,Archuleta,,medical
+4,2014,Denver,12005332.0,retail
+4,2014,Boulder,3136133.0,medical
+4,2014,Garfield,,retail
+4,2014,Chaffee,,medical
+4,2014,Gilpin,114408.0,retail
+4,2014,Clear Creek,92791.0,medical
+4,2014,Gunnison,,retail
+4,2014,Costilla,,medical
+4,2014,Jefferson,1368618.0,retail
+4,2014,Denver,15064678.0,medical
+4,2014,Lake,,retail
+4,2014,Eagle,178397.0,medical
+4,2014,Larimer,,retail
+4,2014,El Paso,5535184.0,medical
+4,2014,Ouray,,retail
+4,2014,Fremont,225243.0,medical
+4,2014,Park,,retail
+4,2014,Garfield,371447.0,medical
+4,2014,Pitkin,227021.0,retail
+4,2014,Gilpin,43162.0,medical
+4,2014,Pueblo,1132339.0,retail
+4,2014,Grand,,medical
+4,2014,Routt,,retail
+4,2014,Gunnison,,medical
+4,2014,San Miguel,188733.0,retail
+4,2014,Jefferson,2039086.0,medical
+4,2014,Summit,757131.0,retail
+4,2014,La Plata,613521.0,medical
+4,2014,Weld,521853.0,retail
+4,2014,Larimer,1162178.0,medical
+4,2014,Sum of NR Counties,2245534.0,retail
+4,2014,Mesa,,medical
+4,2014,Moffat,,medical
+4,2014,Montezuma,108703.0,medical
+4,2014,Montrose,,medical
+4,2014,Ouray,,medical
+4,2014,Park,,medical
+4,2014,Pitkin,123525.0,medical
+4,2014,Pueblo,401959.0,medical
+4,2014,Routt,186308.0,medical
+4,2014,San Miguel,64107.0,medical
+4,2014,Sedgwick,,medical
+4,2014,Summit,243097.0,medical
+4,2014,Teller,,medical
+4,2014,Weld,519545.0,medical
+4,2014,Sum of NR Counties,607341.0,medical
+10,2014,Adams,474637.0,medical
+10,2014,Adams,,retail
+10,2014,Alamosa,,medical
+10,2014,Arapahoe,,retail
+10,2014,Arapahoe,1396842.0,medical
+10,2014,Archuleta,,retail
+10,2014,Archuleta,,medical
+10,2014,Boulder,3477557.0,retail
+10,2014,Boulder,2660593.0,medical
+10,2014,Chaffee,,retail
+10,2014,Chaffee,,medical
+10,2014,Clear Creek,338132.0,retail
+10,2014,Clear Creek,102858.0,medical
+10,2014,Denver,14895186.0,retail
+10,2014,Costilla,,medical
+10,2014,Eagle,356123.0,retail
+10,2014,Denver,15006222.0,medical
+10,2014,El Paso,,retail
+10,2014,Eagle,206273.0,medical
+10,2014,Garfield,553834.0,retail
+10,2014,El Paso,5742846.0,medical
+10,2014,Gilpin,,retail
+10,2014,Fremont,174220.0,medical
+10,2014,Gunnison,184394.0,retail
+10,2014,Garfield,389617.0,medical
+10,2014,Jefferson,1714442.0,retail
+10,2014,Gilpin,,medical
+10,2014,Lake,,retail
+10,2014,Grand,,medical
+10,2014,La Plata,,retail
+10,2014,Gunnison,,medical
+10,2014,Larimer,1523402.0,retail
+10,2014,Jefferson,1923839.0,medical
+10,2014,Morgan,,retail
+10,2014,La Plata,531825.0,medical
+10,2014,Ouray,,retail
+10,2014,Larimer,1232929.0,medical
+10,2014,Park,,retail
+10,2014,Mesa,,medical
+10,2014,Pitkin,246079.0,retail
+10,2014,Moffat,,medical
+10,2014,Pueblo,1245865.0,retail
+10,2014,Montezuma,,medical
+10,2014,Routt,,retail
+10,2014,Montrose,,medical
+10,2014,Saguache,,retail
+10,2014,Morgan,,medical
+10,2014,San Miguel,278409.0,retail
+10,2014,Ouray,,medical
+10,2014,Sedgwick,,retail
+10,2014,Park,,medical
+10,2014,Summit,632225.0,retail
+10,2014,Pitkin,86614.0,medical
+10,2014,Weld,1126809.0,retail
+10,2014,Pueblo,352545.0,medical
+10,2014,Sum of NR Counties,4613528.0,retail
+10,2014,Routt,,medical
+10,2014,San Miguel,36239.0,medical
+10,2014,Sedgwick,,medical
+10,2014,Summit,178233.0,medical
+10,2014,Teller,,medical
+10,2014,Weld,361629.0,medical
+10,2014,Sum of NR Counties,921255.0,medical
+6,2016,Adams,379841.0,medical
+6,2016,Adams,3434567.0,retail
+6,2016,Alamosa,,medical
+6,2016,Arapahoe,7565406.0,retail
+6,2016,Arapahoe,1485581.0,medical
+6,2016,Archuleta,,retail
+6,2016,Archuleta,,medical
+6,2016,Boulder,5541278.0,retail
+6,2016,Boulder,2271053.0,medical
+6,2016,Chaffee,455848.0,retail
+6,2016,Chaffee,,medical
+6,2016,Clear Creek,553669.0,retail
+6,2016,Clear Creek,68418.0,medical
+6,2016,Conejos,332403.0,retail
+6,2016,Costilla,,medical
+6,2016,Costilla,265269.0,retail
+6,2016,Denver,18632737.0,medical
+6,2016,Denver,21841675.0,retail
+6,2016,Eagle,211161.0,medical
+6,2016,Eagle,842569.0,retail
+6,2016,El Paso,8443101.0,medical
+6,2016,El Paso,,retail
+6,2016,Fremont,212028.0,medical
+6,2016,Garfield,1333408.0,retail
+6,2016,Garfield,426581.0,medical
+6,2016,Gilpin,243952.0,retail
+6,2016,Gilpin,,medical
+6,2016,Grand,261059.0,retail
+6,2016,Grand,,medical
+6,2016,Gunnison,479935.0,retail
+6,2016,Gunnison,,medical
+6,2016,Huerfano,,retail
+6,2016,Jefferson,1538630.0,medical
+6,2016,Jefferson,3753947.0,retail
+6,2016,La Plata,441148.0,medical
+6,2016,Lake,206574.0,retail
+6,2016,Larimer,1222737.0,medical
+6,2016,La Plata,1939519.0,retail
+6,2016,Las Animas,,medical
+6,2016,Larimer,3648840.0,retail
+6,2016,Mesa,,medical
+6,2016,Las Animas,1622815.0,retail
+6,2016,Moffat,,medical
+6,2016,Mesa,,retail
+6,2016,Montezuma,96553.0,medical
+6,2016,Montezuma,914168.0,retail
+6,2016,Montrose,,medical
+6,2016,Morgan,549251.0,retail
+6,2016,Morgan,,medical
+6,2016,Ouray,,retail
+6,2016,Ouray,,medical
+6,2016,Park,299449.0,retail
+6,2016,Park,,medical
+6,2016,Pitkin,673427.0,retail
+6,2016,Pitkin,94197.0,medical
+6,2016,Pueblo,2365115.0,retail
+6,2016,Pueblo,1386239.0,medical
+6,2016,Routt,649366.0,retail
+6,2016,Routt,140614.0,medical
+6,2016,Saguache,,retail
+6,2016,San Miguel,43855.0,medical
+6,2016,San Juan,,retail
+6,2016,Sedgwick,,medical
+6,2016,San Miguel,329083.0,retail
+6,2016,Summit,153626.0,medical
+6,2016,Sedgwick,,retail
+6,2016,Teller,,medical
+6,2016,Summit,1253529.0,retail
+6,2016,Weld,301573.0,medical
+6,2016,Weld,2024804.0,retail
+6,2016,Sum of NR Counties,627877.0,medical
+6,2016,Sum of NR Counties,4500938.0,retail
+12,2016,Adams,568391.0,medical
+12,2016,Adams,4593466.0,retail
+12,2016,Alamosa,,medical
+12,2016,Arapahoe,9260969.0,retail
+12,2016,Arapahoe,1447994.0,medical
+12,2016,Archuleta,,retail
+12,2016,Archuleta,,medical
+12,2016,Boulder,5821440.0,retail
+12,2016,Boulder,2510721.0,medical
+12,2016,Chaffee,351614.0,retail
+12,2016,Chaffee,,medical
+12,2016,Clear Creek,526729.0,retail
+12,2016,Clear Creek,61999.0,medical
+12,2016,Conejos,339375.0,retail
+12,2016,Costilla,,medical
+12,2016,Costilla,223780.0,retail
+12,2016,Denver,16064917.0,medical
+12,2016,Denver,27400081.0,retail
+12,2016,Eagle,163815.0,medical
+12,2016,Eagle,1398924.0,retail
+12,2016,El Paso,8417826.0,medical
+12,2016,El Paso,,retail
+12,2016,Fremont,173405.0,medical
+12,2016,Garfield,1451481.0,retail
+12,2016,Garfield,322592.0,medical
+12,2016,Gilpin,204163.0,retail
+12,2016,Gilpin,,medical
+12,2016,Grand,390044.0,retail
+12,2016,Grand,,medical
+12,2016,Gunnison,530400.0,retail
+12,2016,Gunnison,,medical
+12,2016,Huerfano,,retail
+12,2016,Jefferson,1545983.0,medical
+12,2016,Jefferson,4354956.0,retail
+12,2016,La Plata,334003.0,medical
+12,2016,Lake,182830.0,retail
+12,2016,Larimer,1260854.0,medical
+12,2016,La Plata,2011310.0,retail
+12,2016,Las Animas,,medical
+12,2016,Larimer,4145435.0,retail
+12,2016,Mesa,,medical
+12,2016,Las Animas,2389493.0,retail
+12,2016,Moffat,,medical
+12,2016,Mesa,,retail
+12,2016,Montezuma,,medical
+12,2016,Montezuma,1211288.0,retail
+12,2016,Montrose,,medical
+12,2016,Morgan,579314.0,retail
+12,2016,Morgan,,medical
+12,2016,Ouray,334503.0,retail
+12,2016,Otero,,medical
+12,2016,Park,301869.0,retail
+12,2016,Ouray,,medical
+12,2016,Pitkin,1065431.0,retail
+12,2016,Park,,medical
+12,2016,Pueblo,2566125.0,retail
+12,2016,Pitkin,70724.0,medical
+12,2016,Routt,789398.0,retail
+12,2016,Pueblo,637069.0,medical
+12,2016,Saguache,,retail
+12,2016,Routt,188092.0,medical
+12,2016,San Juan,,retail
+12,2016,San Miguel,30626.0,medical
+12,2016,San Miguel,316572.0,retail
+12,2016,Sedgwick,,medical
+12,2016,Sedgwick,,retail
+12,2016,Summit,163465.0,medical
+12,2016,Summit,2203456.0,retail
+12,2016,Teller,,medical
+12,2016,Weld,2486668.0,retail
+12,2016,Weld,309108.0,medical
+12,2016,Sum of NR Counties,3789891.0,retail
+12,2016,Sum of NR Counties,600769.0,medical
+2,2016,Adams,331503.0,medical
+2,2016,Adams,2597102.0,retail
+2,2016,Alamosa,,medical
+2,2016,Arapahoe,6229934.0,retail
+2,2016,Arapahoe,1502406.0,medical
+2,2016,Archuleta,,retail
+2,2016,Archuleta,,medical
+2,2016,Boulder,4477304.0,retail
+2,2016,Boulder,2517617.0,medical
+2,2016,Chaffee,281840.0,retail
+2,2016,Chaffee,,medical
+2,2016,Clear Creek,535811.0,retail
+2,2016,Clear Creek,89373.0,medical
+2,2016,Conejos,163449.0,retail
+2,2016,Costilla,,medical
+2,2016,Costilla,153417.0,retail
+2,2016,Denver,15302180.0,medical
+2,2016,Denver,19129746.0,retail
+2,2016,Eagle,234659.0,medical
+2,2016,Eagle,1176777.0,retail
+2,2016,El Paso,7548713.0,medical
+2,2016,El Paso,,retail
+2,2016,Fremont,,medical
+2,2016,Garfield,860185.0,retail
+2,2016,Garfield,386348.0,medical
+2,2016,Gilpin,172887.0,retail
+2,2016,Gilpin,,medical
+2,2016,Grand,279018.0,retail
+2,2016,Grand,,medical
+2,2016,Gunnison,413264.0,retail
+2,2016,Gunnison,,medical
+2,2016,Huerfano,,retail
+2,2016,Jefferson,1589401.0,medical
+2,2016,Jefferson,2970642.0,retail
+2,2016,La Plata,360382.0,medical
+2,2016,Lake,,retail
+2,2016,Larimer,1341468.0,medical
+2,2016,La Plata,1484507.0,retail
+2,2016,Las Animas,,medical
+2,2016,Larimer,2878307.0,retail
+2,2016,Mesa,,medical
+2,2016,Las Animas,1012648.0,retail
+2,2016,Moffat,,medical
+2,2016,Mesa,,retail
+2,2016,Montezuma,102860.0,medical
+2,2016,Montezuma,600808.0,retail
+2,2016,Montrose,,medical
+2,2016,Morgan,,retail
+2,2016,Morgan,,medical
+2,2016,Ouray,,retail
+2,2016,Ouray,,medical
+2,2016,Park,176302.0,retail
+2,2016,Park,,medical
+2,2016,Pitkin,964350.0,retail
+2,2016,Pitkin,95627.0,medical
+2,2016,Pueblo,1686427.0,retail
+2,2016,Pueblo,980275.0,medical
+2,2016,Routt,772020.0,retail
+2,2016,Routt,193928.0,medical
+2,2016,Saguache,,retail
+2,2016,San Miguel,46544.0,medical
+2,2016,San Juan,,retail
+2,2016,Sedgwick,,medical
+2,2016,San Miguel,339892.0,retail
+2,2016,Summit,212147.0,medical
+2,2016,Sedgwick,,retail
+2,2016,Teller,,medical
+2,2016,Summit,2116576.0,retail
+2,2016,Weld,395983.0,medical
+2,2016,Weld,1866786.0,retail
+2,2016,Sum of NR Counties,787820.0,medical
+2,2016,Sum of NR Counties,3705315.0,retail
+1,2014,Adams,683098.0,medical
+1,2014,Adams,,retail
+1,2014,Alamosa,,medical
+1,2014,Clear Creek,459640.0,retail
+1,2014,Arapahoe,1188232.0,medical
+1,2014,Denver,8482593.0,retail
+1,2014,Archuleta,,medical
+1,2014,Garfield,,retail
+1,2014,Boulder,3417873.0,medical
+1,2014,Gilpin,197379.0,retail
+1,2014,Chaffee,83714.0,medical
+1,2014,Gunnison,,retail
+1,2014,Clear Creek,143736.0,medical
+1,2014,Jefferson,853675.0,retail
+1,2014,Costilla,,medical
+1,2014,Lake,,retail
+1,2014,Denver,15351083.0,medical
+1,2014,Ouray,,retail
+1,2014,Eagle,203060.0,medical
+1,2014,Park,,retail
+1,2014,El Paso,4923633.0,medical
+1,2014,Pueblo,,retail
+1,2014,Fremont,134388.0,medical
+1,2014,Routt,,retail
+1,2014,Garfield,396086.0,medical
+1,2014,San Miguel,338934.0,retail
+1,2014,Gilpin,28798.0,medical
+1,2014,Summit,1274208.0,retail
+1,2014,Grand,,medical
+1,2014,Weld,,retail
+1,2014,Gunnison,36244.0,medical
+1,2014,Sum of NR Counties,2415784.0,retail
+1,2014,Jefferson,1979386.0,medical
+1,2014,La Plata,523193.0,medical
+1,2014,Larimer,964948.0,medical
+1,2014,Mesa,,medical
+1,2014,Moffat,,medical
+1,2014,Montezuma,100634.0,medical
+1,2014,Montrose,,medical
+1,2014,Ouray,,medical
+1,2014,Park,,medical
+1,2014,Pitkin,194865.0,medical
+1,2014,Pueblo,419894.0,medical
+1,2014,Routt,239509.0,medical
+1,2014,San Miguel,164384.0,medical
+1,2014,Sedgwick,,medical
+1,2014,Summit,271441.0,medical
+1,2014,Teller,,medical
+1,2014,Weld,657150.0,medical
+1,2014,Sum of NR Counties,436371.0,medical
+3,2016,Adams,347344.0,medical
+3,2016,Adams,2909379.0,retail
+3,2016,Alamosa,,medical
+3,2016,Arapahoe,7112616.0,retail
+3,2016,Arapahoe,1601551.0,medical
+3,2016,Archuleta,,retail
+3,2016,Archuleta,,medical
+3,2016,Boulder,5138199.0,retail
+3,2016,Boulder,2718254.0,medical
+3,2016,Chaffee,350973.0,retail
+3,2016,Chaffee,,medical
+3,2016,Clear Creek,561094.0,retail
+3,2016,Clear Creek,87829.0,medical
+3,2016,Conejos,211950.0,retail
+3,2016,Costilla,,medical
+3,2016,Costilla,195952.0,retail
+3,2016,Denver,17353519.0,medical
+3,2016,Denver,21459311.0,retail
+3,2016,Eagle,264913.0,medical
+3,2016,Eagle,1283537.0,retail
+3,2016,El Paso,8537583.0,medical
+3,2016,El Paso,,retail
+3,2016,Fremont,207942.0,medical
+3,2016,Garfield,1095523.0,retail
+3,2016,Garfield,425553.0,medical
+3,2016,Gilpin,188204.0,retail
+3,2016,Gilpin,,medical
+3,2016,Grand,360353.0,retail
+3,2016,Grand,,medical
+3,2016,Gunnison,490823.0,retail
+3,2016,Gunnison,,medical
+3,2016,Huerfano,,retail
+3,2016,Jefferson,1715396.0,medical
+3,2016,Jefferson,3327498.0,retail
+3,2016,La Plata,404686.0,medical
+3,2016,Lake,,retail
+3,2016,Larimer,1401215.0,medical
+3,2016,La Plata,1679875.0,retail
+3,2016,Las Animas,,medical
+3,2016,Larimer,3197373.0,retail
+3,2016,Mesa,,medical
+3,2016,Las Animas,1284687.0,retail
+3,2016,Moffat,,medical
+3,2016,Mesa,,retail
+3,2016,Montezuma,102939.0,medical
+3,2016,Montezuma,728890.0,retail
+3,2016,Montrose,,medical
+3,2016,Morgan,,retail
+3,2016,Morgan,,medical
+3,2016,Ouray,,retail
+3,2016,Ouray,,medical
+3,2016,Park,229022.0,retail
+3,2016,Park,,medical
+3,2016,Pitkin,1082334.0,retail
+3,2016,Pitkin,103033.0,medical
+3,2016,Pueblo,2074591.0,retail
+3,2016,Pueblo,1240646.0,medical
+3,2016,Routt,759132.0,retail
+3,2016,Routt,220567.0,medical
+3,2016,Saguache,,retail
+3,2016,San Miguel,,medical
+3,2016,San Juan,,retail
+3,2016,Sedgwick,,medical
+3,2016,San Miguel,,retail
+3,2016,Summit,,medical
+3,2016,Sedgwick,,retail
+3,2016,Teller,,medical
+3,2016,Summit,2395692.0,retail
+3,2016,Weld,,medical
+3,2016,Weld,2034731.0,retail
+3,2016,Sum of NR Counties,1383203.0,medical
+3,2016,Sum of NR Counties,4969649.0,retail
+1,2016,Adams,363668.0,medical
+1,2016,Adams,2544485.0,retail
+1,2016,Alamosa,,medical
+1,2016,Arapahoe,5949573.0,retail
+1,2016,Arapahoe,1547734.0,medical
+1,2016,Archuleta,,retail
+1,2016,Archuleta,,medical
+1,2016,Boulder,4499880.0,retail
+1,2016,Boulder,2565967.0,medical
+1,2016,Chaffee,268240.0,retail
+1,2016,Chaffee,,medical
+1,2016,Clear Creek,550192.0,retail
+1,2016,Clear Creek,103212.0,medical
+1,2016,Conejos,,retail
+1,2016,Costilla,,medical
+1,2016,Costilla,,retail
+1,2016,Denver,14692917.0,medical
+1,2016,Denver,18969263.0,retail
+1,2016,Eagle,258266.0,medical
+1,2016,Eagle,1214652.0,retail
+1,2016,El Paso,7124874.0,medical
+1,2016,El Paso,,retail
+1,2016,Fremont,160049.0,medical
+1,2016,Garfield,821090.0,retail
+1,2016,Garfield,342951.0,medical
+1,2016,Gilpin,136475.0,retail
+1,2016,Gilpin,,medical
+1,2016,Grand,287813.0,retail
+1,2016,Grand,,medical
+1,2016,Gunnison,400086.0,retail
+1,2016,Gunnison,,medical
+1,2016,Huerfano,,retail
+1,2016,Jefferson,1624527.0,medical
+1,2016,Jefferson,3020022.0,retail
+1,2016,La Plata,364582.0,medical
+1,2016,Lake,,retail
+1,2016,Larimer,1310553.0,medical
+1,2016,La Plata,1396817.0,retail
+1,2016,Las Animas,,medical
+1,2016,Larimer,2708125.0,retail
+1,2016,Mesa,,medical
+1,2016,Las Animas,922872.0,retail
+1,2016,Moffat,,medical
+1,2016,Mesa,,retail
+1,2016,Montezuma,79330.0,medical
+1,2016,Montezuma,532773.0,retail
+1,2016,Montrose,,medical
+1,2016,Morgan,,retail
+1,2016,Morgan,,medical
+1,2016,Ouray,,retail
+1,2016,Ouray,,medical
+1,2016,Park,187006.0,retail
+1,2016,Park,,medical
+1,2016,Pitkin,1008558.0,retail
+1,2016,Pitkin,93239.0,medical
+1,2016,Pueblo,1466234.0,retail
+1,2016,Pueblo,822153.0,medical
+1,2016,Routt,792416.0,retail
+1,2016,Routt,203373.0,medical
+1,2016,Saguache,,retail
+1,2016,San Miguel,,medical
+1,2016,San Juan,,retail
+1,2016,Sedgwick,,medical
+1,2016,San Miguel,385569.0,retail
+1,2016,Summit,228510.0,medical
+1,2016,Sedgwick,,retail
+1,2016,Teller,,medical
+1,2016,Summit,2338782.0,retail
+1,2016,Weld,356636.0,medical
+1,2016,Weld,1793538.0,retail
+1,2016,Sum of NR Counties,618003.0,medical
+1,2016,Sum of NR Counties,3701557.0,retail
+3,2014,Adams,477275.0,medical
+3,2014,Adams,,retail
+3,2014,Alamosa,,medical
+3,2014,Boulder,1396479.0,retail
+3,2014,Arapahoe,1490219.0,medical
+3,2014,Clear Creek,524541.0,retail
+3,2014,Archuleta,,medical
+3,2014,Denver,10746117.0,retail
+3,2014,Boulder,3505875.0,medical
+3,2014,Garfield,,retail
+3,2014,Chaffee,,medical
+3,2014,Gilpin,131685.0,retail
+3,2014,Clear Creek,106955.0,medical
+3,2014,Gunnison,,retail
+3,2014,Costilla,,medical
+3,2014,Jefferson,1056723.0,retail
+3,2014,Denver,16102218.0,medical
+3,2014,Lake,,retail
+3,2014,Eagle,201147.0,medical
+3,2014,Ouray,,retail
+3,2014,El Paso,5929766.0,medical
+3,2014,Park,,retail
+3,2014,Fremont,222270.0,medical
+3,2014,Pitkin,,retail
+3,2014,Garfield,401766.0,medical
+3,2014,Pueblo,1196018.0,retail
+3,2014,Gilpin,33416.0,medical
+3,2014,Routt,,retail
+3,2014,Grand,,medical
+3,2014,San Miguel,319620.0,retail
+3,2014,Gunnison,,medical
+3,2014,Summit,1427935.0,retail
+3,2014,Jefferson,2014285.0,medical
+3,2014,Weld,,retail
+3,2014,La Plata,587114.0,medical
+3,2014,Sum of NR Counties,3082513.0,retail
+3,2014,Larimer,1234344.0,medical
+3,2014,Mesa,,medical
+3,2014,Moffat,,medical
+3,2014,Montezuma,,medical
+3,2014,Montrose,,medical
+3,2014,Ouray,,medical
+3,2014,Park,,medical
+3,2014,Pitkin,157541.0,medical
+3,2014,Pueblo,375711.0,medical
+3,2014,Routt,214650.0,medical
+3,2014,Saguache,,medical
+3,2014,San Miguel,75215.0,medical
+3,2014,Sedgwick,,medical
+3,2014,Summit,253937.0,medical
+3,2014,Teller,,medical
+3,2014,Weld,580961.0,medical
+3,2014,Sum of NR Counties,857213.0,medical
+2,2014,Adams,454940.0,medical
+2,2014,Adams,,retail
+2,2014,Alamosa,,medical
+2,2014,Boulder,,retail
+2,2014,Arapahoe,1210155.0,medical
+2,2014,Clear Creek,445976.0,retail
+2,2014,Archuleta,,medical
+2,2014,Denver,8349069.0,retail
+2,2014,Boulder,3345413.0,medical
+2,2014,Garfield,,retail
+2,2014,Chaffee,,medical
+2,2014,Gilpin,113337.0,retail
+2,2014,Clear Creek,111164.0,medical
+2,2014,Gunnison,,retail
+2,2014,Costilla,,medical
+2,2014,Jefferson,880367.0,retail
+2,2014,Denver,14680476.0,medical
+2,2014,Lake,,retail
+2,2014,Eagle,185360.0,medical
+2,2014,Ouray,,retail
+2,2014,El Paso,5116438.0,medical
+2,2014,Park,,retail
+2,2014,Fremont,215839.0,medical
+2,2014,Pueblo,823156.0,retail
+2,2014,Garfield,373432.0,medical
+2,2014,Routt,,retail
+2,2014,Gilpin,32325.0,medical
+2,2014,San Miguel,230470.0,retail
+2,2014,Grand,,medical
+2,2014,Summit,1063383.0,retail
+2,2014,Gunnison,,medical
+2,2014,Weld,,retail
+2,2014,Jefferson,2044484.0,medical
+2,2014,Sum of NR Counties,2342715.0,retail
+2,2014,La Plata,521985.0,medical
+2,2014,Larimer,1009841.0,medical
+2,2014,Mesa,,medical
+2,2014,Moffat,,medical
+2,2014,Montezuma,103266.0,medical
+2,2014,Montrose,,medical
+2,2014,Ouray,,medical
+2,2014,Park,,medical
+2,2014,Pitkin,161237.0,medical
+2,2014,Pueblo,418489.0,medical
+2,2014,Routt,209165.0,medical
+2,2014,San Miguel,94099.0,medical
+2,2014,Sedgwick,,medical
+2,2014,Summit,244818.0,medical
+2,2014,Teller,,medical
+2,2014,Weld,671024.0,medical
+2,2014,Sum of NR Counties,534622.0,medical
+11,2015,Adams,411536.0,medical
+11,2015,Adams,2426969.0,retail
+11,2015,Alamosa,,medical
+11,2015,Arapahoe,5485411.0,retail
+11,2015,Arapahoe,1474373.0,medical
+11,2015,Archuleta,,retail
+11,2015,Archuleta,,medical
+11,2015,Boulder,4312311.0,retail
+11,2015,Boulder,2441291.0,medical
+11,2015,Chaffee,257406.0,retail
+11,2015,Chaffee,,medical
+11,2015,Clear Creek,382303.0,retail
+11,2015,Clear Creek,65544.0,medical
+11,2015,Conejos,,retail
+11,2015,Costilla,,medical
+11,2015,Costilla,,retail
+11,2015,Denver,13509435.0,medical
+11,2015,Denver,17834233.0,retail
+11,2015,Eagle,239175.0,medical
+11,2015,Eagle,608573.0,retail
+11,2015,El Paso,6629977.0,medical
+11,2015,El Paso,,retail
+11,2015,Fremont,146376.0,medical
+11,2015,Garfield,706287.0,retail
+11,2015,Garfield,276743.0,medical
+11,2015,Gilpin,165186.0,retail
+11,2015,Gilpin,,medical
+11,2015,Grand,149468.0,retail
+11,2015,Grand,,medical
+11,2015,Gunnison,250041.0,retail
+11,2015,Gunnison,,medical
+11,2015,Huerfano,,retail
+11,2015,Jefferson,1654954.0,medical
+11,2015,Jefferson,2816172.0,retail
+11,2015,La Plata,332966.0,medical
+11,2015,Lake,,retail
+11,2015,Larimer,1263937.0,medical
+11,2015,La Plata,1192549.0,retail
+11,2015,Las Animas,,medical
+11,2015,Larimer,2561270.0,retail
+11,2015,Mesa,,medical
+11,2015,Las Animas,850923.0,retail
+11,2015,Moffat,,medical
+11,2015,Mesa,,retail
+11,2015,Montezuma,93505.0,medical
+11,2015,Montezuma,528833.0,retail
+11,2015,Montrose,,medical
+11,2015,Morgan,,retail
+11,2015,Morgan,,medical
+11,2015,Ouray,,retail
+11,2015,Ouray,,medical
+11,2015,Park,168909.0,retail
+11,2015,Park,,medical
+11,2015,Pitkin,348178.0,retail
+11,2015,Pitkin,78898.0,medical
+11,2015,Pueblo,1447179.0,retail
+11,2015,Pueblo,776637.0,medical
+11,2015,Routt,437492.0,retail
+11,2015,Routt,182755.0,medical
+11,2015,Saguache,,retail
+11,2015,San Miguel,39568.0,medical
+11,2015,San Juan,,retail
+11,2015,Sedgwick,,medical
+11,2015,San Miguel,121095.0,retail
+11,2015,Summit,214387.0,medical
+11,2015,Sedgwick,,retail
+11,2015,Teller,,medical
+11,2015,Summit,1022796.0,retail
+11,2015,Weld,361925.0,medical
+11,2015,Weld,1688077.0,retail
+11,2015,Sum of NR Counties,576454.0,medical
+11,2015,Sum of NR Counties,3692094.0,retail
+5,2015,Adams,495716.0,medical
+5,2015,Adams,1687270.0,retail
+5,2015,Alamosa,,medical
+5,2015,Arapahoe,3615509.0,retail
+5,2015,Arapahoe,1588756.0,medical
+5,2015,Archuleta,,retail
+5,2015,Archuleta,,medical
+5,2015,Boulder,4281906.0,retail
+5,2015,Boulder,2451648.0,medical
+5,2015,Chaffee,312605.0,retail
+5,2015,Chaffee,,medical
+5,2015,Clear Creek,348152.0,retail
+5,2015,Clear Creek,96276.0,medical
+5,2015,Costilla,,retail
+5,2015,Costilla,,medical
+5,2015,Denver,17590490.0,retail
+5,2015,Denver,15598475.0,medical
+5,2015,Eagle,432292.0,retail
+5,2015,Eagle,259399.0,medical
+5,2015,El Paso,,retail
+5,2015,El Paso,6793848.0,medical
+5,2015,Garfield,720995.0,retail
+5,2015,Fremont,200945.0,medical
+5,2015,Gilpin,143079.0,retail
+5,2015,Garfield,407487.0,medical
+5,2015,Grand,,retail
+5,2015,Gilpin,,medical
+5,2015,Gunnison,176131.0,retail
+5,2015,Grand,,medical
+5,2015,Jefferson,2538231.0,retail
+5,2015,Gunnison,,medical
+5,2015,Lake,,retail
+5,2015,Jefferson,1933694.0,medical
+5,2015,La Plata,1155547.0,retail
+5,2015,La Plata,452253.0,medical
+5,2015,Larimer,2292433.0,retail
+5,2015,Larimer,1292742.0,medical
+5,2015,Las Animas,606835.0,retail
+5,2015,Las Animas,,medical
+5,2015,Mesa,,retail
+5,2015,Mesa,,medical
+5,2015,Montezuma,403035.0,retail
+5,2015,Moffat,,medical
+5,2015,Morgan,,retail
+5,2015,Montezuma,136143.0,medical
+5,2015,Ouray,,retail
+5,2015,Montrose,,medical
+5,2015,Park,154563.0,retail
+5,2015,Morgan,,medical
+5,2015,Pitkin,329419.0,retail
+5,2015,Ouray,,medical
+5,2015,Pueblo,1482501.0,retail
+5,2015,Park,,medical
+5,2015,Routt,419611.0,retail
+5,2015,Pitkin,57287.0,medical
+5,2015,Saguache,,retail
+5,2015,Pueblo,396182.0,medical
+5,2015,San Juan,,retail
+5,2015,Routt,163870.0,medical
+5,2015,San Miguel,153689.0,retail
+5,2015,San Miguel,,medical
+5,2015,Sedgwick,,retail
+5,2015,Sedgwick,,medical
+5,2015,Summit,719343.0,retail
+5,2015,Summit,224409.0,medical
+5,2015,Weld,1636318.0,retail
+5,2015,Teller,,medical
+5,2015,Sum of NR Counties,3390899.0,retail
+5,2015,Weld,342765.0,medical
+5,2015,Sum of NR Counties,717221.0,medical
+7,2017,Adams,971747.0,medical
+7,2017,Adams,5462382.0,retail
+7,2017,Alamosa,,medical
+7,2017,Arapahoe,9672770.0,retail
+7,2017,Arapahoe,953749.0,medical
+7,2017,Archuleta,884084.0,retail
+7,2017,Archuleta,,medical
+7,2017,Boulder,7070534.0,retail
+7,2017,Boulder,1851637.0,medical
+7,2017,Chaffee,662413.0,retail
+7,2017,Chaffee,,medical
+7,2017,Clear Creek,678322.0,retail
+7,2017,Clear Creek,34954.0,medical
+7,2017,Conejos,586118.0,retail
+7,2017,Costilla,,medical
+7,2017,Costilla,453934.0,retail
+7,2017,Denver,17274275.0,medical
+7,2017,Denver,34007419.0,retail
+7,2017,Eagle,142382.0,medical
+7,2017,Eagle,1159081.0,retail
+7,2017,El Paso,8717083.0,medical
+7,2017,El Paso,,retail
+7,2017,Fremont,184871.0,medical
+7,2017,Garfield,2128843.0,retail
+7,2017,Garfield,307082.0,medical
+7,2017,Gilpin,271414.0,retail
+7,2017,Gilpin,,medical
+7,2017,Grand,455029.0,retail
+7,2017,Grand,,medical
+7,2017,Gunnison,892740.0,retail
+7,2017,Gunnison,,medical
+7,2017,Huerfano,,retail
+7,2017,Jefferson,1282271.0,medical
+7,2017,Jefferson,4525746.0,retail
+7,2017,La Plata,297527.0,medical
+7,2017,Lake,320873.0,retail
+7,2017,Larimer,1186223.0,medical
+7,2017,La Plata,2366747.0,retail
+7,2017,Las Animas,,medical
+7,2017,Larimer,5303480.0,retail
+7,2017,Mesa,,medical
+7,2017,Las Animas,4383708.0,retail
+7,2017,Moffat,,medical
+7,2017,Mesa,,retail
+7,2017,Montezuma,73002.0,medical
+7,2017,Montezuma,1884658.0,retail
+7,2017,Montrose,,medical
+7,2017,Morgan,909700.0,retail
+7,2017,Morgan,,medical
+7,2017,Ouray,,retail
+7,2017,Otero,,medical
+7,2017,Park,465717.0,retail
+7,2017,Ouray,,medical
+7,2017,Pitkin,1267251.0,retail
+7,2017,Park,,medical
+7,2017,Pueblo,3762112.0,retail
+7,2017,Pitkin,74079.0,medical
+7,2017,Routt,1009377.0,retail
+7,2017,Pueblo,684190.0,medical
+7,2017,Saguache,,retail
+7,2017,Routt,,medical
+7,2017,San Juan,,retail
+7,2017,San Miguel,26729.0,medical
+7,2017,San Miguel,521810.0,retail
+7,2017,Sedgwick,,medical
+7,2017,Sedgwick,,retail
+7,2017,Summit,119533.0,medical
+7,2017,Summit,2001214.0,retail
+7,2017,Teller,,medical
+7,2017,Weld,2659205.0,retail
+7,2017,Weld,288400.0,medical
+7,2017,Sum of NR Counties,5270772.0,retail
+7,2017,Sum of NR Counties,787260.0,medical
+6,2017,Adams,1091425.0,medical
+6,2017,Adams,5137782.0,retail
+6,2017,Alamosa,,medical
+6,2017,Arapahoe,9314356.0,retail
+6,2017,Arapahoe,1033427.0,medical
+6,2017,Archuleta,691943.0,retail
+6,2017,Archuleta,,medical
+6,2017,Boulder,6880933.0,retail
+6,2017,Boulder,1846713.0,medical
+6,2017,Chaffee,559238.0,retail
+6,2017,Chaffee,,medical
+6,2017,Clear Creek,581672.0,retail
+6,2017,Clear Creek,57869.0,medical
+6,2017,Conejos,510132.0,retail
+6,2017,Costilla,,medical
+6,2017,Costilla,403056.0,retail
+6,2017,Denver,17634832.0,medical
+6,2017,Denver,31586804.0,retail
+6,2017,Eagle,129118.0,medical
+6,2017,Eagle,916059.0,retail
+6,2017,El Paso,9117656.0,medical
+6,2017,El Paso,,retail
+6,2017,Fremont,179179.0,medical
+6,2017,Garfield,2042113.0,retail
+6,2017,Garfield,292213.0,medical
+6,2017,Gilpin,256404.0,retail
+6,2017,Gilpin,,medical
+6,2017,Grand,330529.0,retail
+6,2017,Grand,,medical
+6,2017,Gunnison,522302.0,retail
+6,2017,Gunnison,,medical
+6,2017,Huerfano,,retail
+6,2017,Jefferson,1252570.0,medical
+6,2017,Jefferson,4405653.0,retail
+6,2017,La Plata,294220.0,medical
+6,2017,Lake,248265.0,retail
+6,2017,Larimer,1134167.0,medical
+6,2017,La Plata,2206045.0,retail
+6,2017,Las Animas,32972.0,medical
+6,2017,Larimer,4929421.0,retail
+6,2017,Mesa,,medical
+6,2017,Las Animas,3836814.0,retail
+6,2017,Moffat,,medical
+6,2017,Mesa,,retail
+6,2017,Montezuma,81402.0,medical
+6,2017,Montezuma,1863923.0,retail
+6,2017,Montrose,,medical
+6,2017,Morgan,860998.0,retail
+6,2017,Morgan,,medical
+6,2017,Ouray,583159.0,retail
+6,2017,Otero,,medical
+6,2017,Park,375371.0,retail
+6,2017,Ouray,,medical
+6,2017,Pitkin,880604.0,retail
+6,2017,Park,,medical
+6,2017,Pueblo,3465138.0,retail
+6,2017,Pitkin,69389.0,medical
+6,2017,Routt,796881.0,retail
+6,2017,Pueblo,707393.0,medical
+6,2017,Saguache,,retail
+6,2017,Routt,,medical
+6,2017,San Juan,,retail
+6,2017,San Miguel,24094.0,medical
+6,2017,San Miguel,397687.0,retail
+6,2017,Sedgwick,,medical
+6,2017,Sedgwick,,retail
+6,2017,Summit,104603.0,medical
+6,2017,Summit,1503046.0,retail
+6,2017,Teller,,medical
+6,2017,Weld,2545979.0,retail
+6,2017,Weld,301813.0,medical
+6,2017,Sum of NR Counties,4193332.0,retail
+6,2017,Sum of NR Counties,740523.0,medical
+12,2017,Adams,782044.0,medical
+12,2017,Adams,6120302.0,retail
+12,2017,Alamosa,,medical
+12,2017,Arapahoe,9761509.0,retail
+12,2017,Arapahoe,881650.0,medical
+12,2017,Archuleta,732699.0,retail
+12,2017,Archuleta,,medical
+12,2017,Boulder,6814221.0,retail
+12,2017,Boulder,1816738.0,medical
+12,2017,Chaffee,398262.0,retail
+12,2017,Chaffee,,medical
+12,2017,Clear Creek,574268.0,retail
+12,2017,Clear Creek,32356.0,medical
+12,2017,Conejos,434200.0,retail
+12,2017,Denver,14510755.0,medical
+12,2017,Costilla,273773.0,retail
+12,2017,Eagle,132404.0,medical
+12,2017,Denver,32265126.0,retail
+12,2017,El Paso,8513185.0,medical
+12,2017,Eagle,1531387.0,retail
+12,2017,Fremont,146945.0,medical
+12,2017,El Paso,,retail
+12,2017,Garfield,233612.0,medical
+12,2017,Garfield,1681605.0,retail
+12,2017,Gilpin,,medical
+12,2017,Gilpin,179250.0,retail
+12,2017,Grand,,medical
+12,2017,Grand,435934.0,retail
+12,2017,Gunnison,,medical
+12,2017,Gunnison,397636.0,retail
+12,2017,Jefferson,1427543.0,medical
+12,2017,Huerfano,,retail
+12,2017,La Plata,300663.0,medical
+12,2017,Jefferson,4291144.0,retail
+12,2017,Larimer,1164472.0,medical
+12,2017,Lake,206999.0,retail
+12,2017,Las Animas,49588.0,medical
+12,2017,La Plata,2010428.0,retail
+12,2017,Mesa,,medical
+12,2017,Larimer,5490891.0,retail
+12,2017,Moffat,,medical
+12,2017,Las Animas,4019496.0,retail
+12,2017,Montezuma,67895.0,medical
+12,2017,Mesa,1063973.0,retail
+12,2017,Montrose,,medical
+12,2017,Montezuma,1687019.0,retail
+12,2017,Morgan,,medical
+12,2017,Morgan,920406.0,retail
+12,2017,Otero,,medical
+12,2017,Ouray,442518.0,retail
+12,2017,Ouray,,medical
+12,2017,Park,367718.0,retail
+12,2017,Park,,medical
+12,2017,Pitkin,1271300.0,retail
+12,2017,Pitkin,60311.0,medical
+12,2017,Pueblo,3707967.0,retail
+12,2017,Pueblo,514218.0,medical
+12,2017,Routt,956589.0,retail
+12,2017,Routt,177246.0,medical
+12,2017,Saguache,98676.0,retail
+12,2017,San Miguel,,medical
+12,2017,San Juan,,retail
+12,2017,Sedgwick,,medical
+12,2017,San Miguel,395334.0,retail
+12,2017,Summit,126502.0,medical
+12,2017,Sedgwick,,retail
+12,2017,Weld,415204.0,medical
+12,2017,Summit,2533302.0,retail
+12,2017,Sum of NR Counties,571066.0,medical
+12,2017,Weld,2571924.0,retail
+4,2015,Adams,474341.0,medical
+4,2015,Adams,1611106.0,retail
+4,2015,Alamosa,,medical
+4,2015,Arapahoe,3257101.0,retail
+4,2015,Arapahoe,1559596.0,medical
+4,2015,Archuleta,,retail
+4,2015,Archuleta,,medical
+4,2015,Boulder,3973545.0,retail
+4,2015,Boulder,2559060.0,medical
+4,2015,Chaffee,250729.0,retail
+4,2015,Chaffee,,medical
+4,2015,Clear Creek,365896.0,retail
+4,2015,Clear Creek,76243.0,medical
+4,2015,Costilla,,retail
+4,2015,Costilla,,medical
+4,2015,Denver,18946519.0,retail
+4,2015,Denver,14953494.0,medical
+4,2015,Eagle,516095.0,retail
+4,2015,Eagle,287781.0,medical
+4,2015,El Paso,,retail
+4,2015,El Paso,6540175.0,medical
+4,2015,Garfield,644631.0,retail
+4,2015,Fremont,198045.0,medical
+4,2015,Gilpin,130946.0,retail
+4,2015,Garfield,381432.0,medical
+4,2015,Grand,,retail
+4,2015,Gilpin,,medical
+4,2015,Gunnison,160176.0,retail
+4,2015,Grand,,medical
+4,2015,Jefferson,2429996.0,retail
+4,2015,Gunnison,,medical
+4,2015,Lake,,retail
+4,2015,Jefferson,1931784.0,medical
+4,2015,La Plata,930516.0,retail
+4,2015,La Plata,493486.0,medical
+4,2015,Larimer,2045132.0,retail
+4,2015,Larimer,1277080.0,medical
+4,2015,Las Animas,471514.0,retail
+4,2015,Las Animas,,medical
+4,2015,Mesa,,retail
+4,2015,Mesa,,medical
+4,2015,Montezuma,313150.0,retail
+4,2015,Moffat,,medical
+4,2015,Morgan,,retail
+4,2015,Montezuma,124006.0,medical
+4,2015,Ouray,,retail
+4,2015,Montrose,,medical
+4,2015,Park,121375.0,retail
+4,2015,Morgan,,medical
+4,2015,Pitkin,426689.0,retail
+4,2015,Ouray,,medical
+4,2015,Pueblo,1318252.0,retail
+4,2015,Park,,medical
+4,2015,Routt,433152.0,retail
+4,2015,Pitkin,65486.0,medical
+4,2015,Saguache,,retail
+4,2015,Pueblo,389146.0,medical
+4,2015,San Juan,,retail
+4,2015,Routt,193801.0,medical
+4,2015,San Miguel,150531.0,retail
+4,2015,San Miguel,38531.0,medical
+4,2015,Sedgwick,,retail
+4,2015,Sedgwick,,medical
+4,2015,Summit,953219.0,retail
+4,2015,Summit,305570.0,medical
+4,2015,Weld,1521411.0,retail
+4,2015,Teller,,medical
+4,2015,Sum of NR Counties,2861263.0,retail
+4,2015,Weld,350491.0,medical
+4,2015,Sum of NR Counties,678969.0,medical
+10,2015,Adams,435580.0,medical
+10,2015,Adams,2446592.0,retail
+10,2015,Alamosa,,medical
+10,2015,Arapahoe,5728782.0,retail
+10,2015,Arapahoe,1743830.0,medical
+10,2015,Archuleta,,retail
+10,2015,Archuleta,,medical
+10,2015,Boulder,4777912.0,retail
+10,2015,Boulder,2816381.0,medical
+10,2015,Chaffee,325900.0,retail
+10,2015,Chaffee,,medical
+10,2015,Clear Creek,419695.0,retail
+10,2015,Clear Creek,87040.0,medical
+10,2015,Conejos,,retail
+10,2015,Costilla,,medical
+10,2015,Costilla,,retail
+10,2015,Denver,16398610.0,medical
+10,2015,Denver,19085375.0,retail
+10,2015,Eagle,294270.0,medical
+10,2015,Eagle,590827.0,retail
+10,2015,El Paso,8065363.0,medical
+10,2015,El Paso,,retail
+10,2015,Fremont,178145.0,medical
+10,2015,Garfield,872142.0,retail
+10,2015,Garfield,404126.0,medical
+10,2015,Gilpin,185948.0,retail
+10,2015,Gilpin,,medical
+10,2015,Grand,166746.0,retail
+10,2015,Grand,,medical
+10,2015,Gunnison,,retail
+10,2015,Gunnison,,medical
+10,2015,Huerfano,,retail
+10,2015,Jefferson,1881358.0,medical
+10,2015,Jefferson,3091341.0,retail
+10,2015,La Plata,404921.0,medical
+10,2015,Lake,,retail
+10,2015,Larimer,1452878.0,medical
+10,2015,La Plata,1541740.0,retail
+10,2015,Las Animas,,medical
+10,2015,Larimer,2885257.0,retail
+10,2015,Mesa,,medical
+10,2015,Las Animas,1035512.0,retail
+10,2015,Moffat,,medical
+10,2015,Mesa,,retail
+10,2015,Montezuma,106843.0,medical
+10,2015,Montezuma,627049.0,retail
+10,2015,Montrose,,medical
+10,2015,Morgan,,retail
+10,2015,Morgan,,medical
+10,2015,Ouray,,retail
+10,2015,Ouray,,medical
+10,2015,Park,201525.0,retail
+10,2015,Park,,medical
+10,2015,Pitkin,443764.0,retail
+10,2015,Pitkin,80160.0,medical
+10,2015,Pueblo,1710792.0,retail
+10,2015,Pueblo,863610.0,medical
+10,2015,Routt,563187.0,retail
+10,2015,Routt,201592.0,medical
+10,2015,Saguache,,retail
+10,2015,San Miguel,50875.0,medical
+10,2015,San Juan,,retail
+10,2015,Sedgwick,,medical
+10,2015,San Miguel,195014.0,retail
+10,2015,Summit,215459.0,medical
+10,2015,Sedgwick,,retail
+10,2015,Teller,,medical
+10,2015,Summit,968236.0,retail
+10,2015,Weld,418307.0,medical
+10,2015,Weld,1908470.0,retail
+10,2015,Sum of NR Counties,643432.0,medical
+10,2015,Sum of NR Counties,4695958.0,retail
+6,2015,Adams,441872.0,medical
+6,2015,Adams,,retail
+6,2015,Alamosa,,medical
+6,2015,Arapahoe,3753244.0,retail
+6,2015,Arapahoe,1525525.0,medical
+6,2015,Archuleta,,retail
+6,2015,Archuleta,,medical
+6,2015,Boulder,4273572.0,retail
+6,2015,Boulder,2363534.0,medical
+6,2015,Chaffee,,retail
+6,2015,Chaffee,,medical
+6,2015,Clear Creek,441514.0,retail
+6,2015,Clear Creek,90303.0,medical
+6,2015,Costilla,,retail
+6,2015,Costilla,,medical
+6,2015,Denver,17280785.0,retail
+6,2015,Denver,16545160.0,medical
+6,2015,Eagle,534649.0,retail
+6,2015,Eagle,259462.0,medical
+6,2015,El Paso,,retail
+6,2015,El Paso,7050814.0,medical
+6,2015,Garfield,798425.0,retail
+6,2015,Fremont,205924.0,medical
+6,2015,Gilpin,183787.0,retail
+6,2015,Garfield,430562.0,medical
+6,2015,Grand,142695.0,retail
+6,2015,Gilpin,,medical
+6,2015,Gunnison,273865.0,retail
+6,2015,Grand,,medical
+6,2015,Huerfano,,retail
+6,2015,Gunnison,,medical
+6,2015,Jefferson,2584940.0,retail
+6,2015,Jefferson,1833049.0,medical
+6,2015,Lake,,retail
+6,2015,La Plata,425100.0,medical
+6,2015,La Plata,1283234.0,retail
+6,2015,Larimer,1219011.0,medical
+6,2015,Larimer,2321397.0,retail
+6,2015,Las Animas,,medical
+6,2015,Las Animas,714276.0,retail
+6,2015,Mesa,,medical
+6,2015,Mesa,,retail
+6,2015,Moffat,,medical
+6,2015,Montezuma,463559.0,retail
+6,2015,Montezuma,127877.0,medical
+6,2015,Morgan,,retail
+6,2015,Montrose,,medical
+6,2015,Ouray,,retail
+6,2015,Morgan,,medical
+6,2015,Park,191938.0,retail
+6,2015,Ouray,,medical
+6,2015,Pitkin,570064.0,retail
+6,2015,Park,,medical
+6,2015,Pueblo,1517777.0,retail
+6,2015,Pitkin,77058.0,medical
+6,2015,Routt,485969.0,retail
+6,2015,Pueblo,569375.0,medical
+6,2015,Saguache,,retail
+6,2015,Routt,159915.0,medical
+6,2015,San Juan,,retail
+6,2015,San Miguel,51852.0,medical
+6,2015,San Miguel,315531.0,retail
+6,2015,Sedgwick,,medical
+6,2015,Sedgwick,,retail
+6,2015,Summit,215753.0,medical
+6,2015,Summit,925580.0,retail
+6,2015,Teller,,medical
+6,2015,Weld,1693656.0,retail
+6,2015,Weld,287920.0,medical
+6,2015,Sum of NR Counties,5709761.0,retail
+6,2015,Sum of NR Counties,672330.0,medical
+12,2015,Adams,441833.0,medical
+12,2015,Adams,2706310.0,retail
+12,2015,Alamosa,,medical
+12,2015,Arapahoe,6055214.0,retail
+12,2015,Arapahoe,1606205.0,medical
+12,2015,Archuleta,,retail
+12,2015,Archuleta,,medical
+12,2015,Boulder,4621551.0,retail
+12,2015,Boulder,2807281.0,medical
+12,2015,Chaffee,,retail
+12,2015,Chaffee,,medical
+12,2015,Clear Creek,492005.0,retail
+12,2015,Clear Creek,81631.0,medical
+12,2015,Conejos,,retail
+12,2015,Costilla,,medical
+12,2015,Costilla,,retail
+12,2015,Denver,16255498.0,medical
+12,2015,Denver,19339032.0,retail
+12,2015,Eagle,273264.0,medical
+12,2015,Eagle,948426.0,retail
+12,2015,El Paso,7639235.0,medical
+12,2015,El Paso,,retail
+12,2015,Fremont,160693.0,medical
+12,2015,Garfield,801776.0,retail
+12,2015,Garfield,318985.0,medical
+12,2015,Gilpin,145319.0,retail
+12,2015,Gilpin,,medical
+12,2015,Grand,274910.0,retail
+12,2015,Grand,,medical
+12,2015,Gunnison,365817.0,retail
+12,2015,Gunnison,,medical
+12,2015,Huerfano,,retail
+12,2015,Jefferson,1745285.0,medical
+12,2015,Jefferson,3153194.0,retail
+12,2015,La Plata,370071.0,medical
+12,2015,Lake,,retail
+12,2015,Larimer,1374506.0,medical
+12,2015,La Plata,1460381.0,retail
+12,2015,Las Animas,,medical
+12,2015,Larimer,2818206.0,retail
+12,2015,Mesa,,medical
+12,2015,Las Animas,921083.0,retail
+12,2015,Moffat,,medical
+12,2015,Mesa,,retail
+12,2015,Montezuma,89934.0,medical
+12,2015,Montezuma,559469.0,retail
+12,2015,Montrose,,medical
+12,2015,Morgan,,retail
+12,2015,Morgan,,medical
+12,2015,Ouray,,retail
+12,2015,Ouray,,medical
+12,2015,Park,188927.0,retail
+12,2015,Park,,medical
+12,2015,Pitkin,895847.0,retail
+12,2015,Pitkin,83107.0,medical
+12,2015,Pueblo,1530280.0,retail
+12,2015,Pueblo,1251262.0,medical
+12,2015,Routt,655561.0,retail
+12,2015,Routt,203563.0,medical
+12,2015,Saguache,,retail
+12,2015,San Miguel,45244.0,medical
+12,2015,San Juan,,retail
+12,2015,Sedgwick,,medical
+12,2015,San Miguel,275068.0,retail
+12,2015,Summit,234110.0,medical
+12,2015,Sedgwick,,retail
+12,2015,Teller,,medical
+12,2015,Summit,1750307.0,retail
+12,2015,Weld,384896.0,medical
+12,2015,Weld,1849039.0,retail
+12,2015,Sum of NR Counties,644290.0,medical
+12,2015,Sum of NR Counties,4269280.0,retail
+4,2017,Adams,1170547.0,medical
+4,2017,Adams,4969567.0,retail
+4,2017,Alamosa,,medical
+4,2017,Arapahoe,9966130.0,retail
+4,2017,Arapahoe,1171574.0,medical
+4,2017,Archuleta,409149.0,retail
+4,2017,Archuleta,,medical
+4,2017,Boulder,5899546.0,retail
+4,2017,Boulder,2002527.0,medical
+4,2017,Chaffee,356366.0,retail
+4,2017,Chaffee,,medical
+4,2017,Clear Creek,478629.0,retail
+4,2017,Clear Creek,53972.0,medical
+4,2017,Conejos,404901.0,retail
+4,2017,Costilla,,medical
+4,2017,Costilla,256910.0,retail
+4,2017,Denver,19101844.0,medical
+4,2017,Denver,30186897.0,retail
+4,2017,Eagle,160790.0,medical
+4,2017,Eagle,938098.0,retail
+4,2017,El Paso,8978250.0,medical
+4,2017,El Paso,,retail
+4,2017,Fremont,178131.0,medical
+4,2017,Garfield,1809692.0,retail
+4,2017,Garfield,307340.0,medical
+4,2017,Gilpin,191824.0,retail
+4,2017,Gilpin,,medical
+4,2017,Grand,265989.0,retail
+4,2017,Grand,,medical
+4,2017,Gunnison,432842.0,retail
+4,2017,Gunnison,,medical
+4,2017,Huerfano,,retail
+4,2017,Jefferson,1408453.0,medical
+4,2017,Jefferson,4695857.0,retail
+4,2017,La Plata,347940.0,medical
+4,2017,Lake,196156.0,retail
+4,2017,Larimer,1235650.0,medical
+4,2017,La Plata,1867263.0,retail
+4,2017,Las Animas,30610.0,medical
+4,2017,Larimer,4578590.0,retail
+4,2017,Mesa,,medical
+4,2017,Las Animas,2875977.0,retail
+4,2017,Moffat,,medical
+4,2017,Mesa,,retail
+4,2017,Montezuma,72479.0,medical
+4,2017,Montezuma,1683864.0,retail
+4,2017,Montrose,,medical
+4,2017,Morgan,,retail
+4,2017,Morgan,,medical
+4,2017,Ouray,,retail
+4,2017,Otero,,medical
+4,2017,Park,301838.0,retail
+4,2017,Ouray,,medical
+4,2017,Pitkin,625875.0,retail
+4,2017,Park,,medical
+4,2017,Pueblo,3094658.0,retail
+4,2017,Pitkin,,medical
+4,2017,Routt,689882.0,retail
+4,2017,Pueblo,583583.0,medical
+4,2017,Saguache,,retail
+4,2017,Routt,,medical
+4,2017,San Juan,,retail
+4,2017,San Miguel,18710.0,medical
+4,2017,San Miguel,161211.0,retail
+4,2017,Sedgwick,,medical
+4,2017,Sedgwick,,retail
+4,2017,Summit,141152.0,medical
+4,2017,Summit,1630117.0,retail
+4,2017,Teller,,medical
+4,2017,Weld,2626833.0,retail
+4,2017,Weld,293539.0,medical
+4,2017,Sum of NR Counties,4628620.0,retail
+4,2017,Sum of NR Counties,792301.0,medical
+10,2017,Adams,948132.0,medical
+10,2017,Adams,5441728.0,retail
+10,2017,Alamosa,,medical
+10,2017,Arapahoe,9221783.0,retail
+10,2017,Arapahoe,927716.0,medical
+10,2017,Archuleta,574929.0,retail
+10,2017,Archuleta,,medical
+10,2017,Boulder,6744069.0,retail
+10,2017,Boulder,1869460.0,medical
+10,2017,Chaffee,452091.0,retail
+10,2017,Chaffee,,medical
+10,2017,Clear Creek,485097.0,retail
+10,2017,Clear Creek,33021.0,medical
+10,2017,Conejos,469150.0,retail
+10,2017,Denver,16854622.0,medical
+10,2017,Costilla,356750.0,retail
+10,2017,Eagle,121584.0,medical
+10,2017,Denver,33586096.0,retail
+10,2017,El Paso,8153081.0,medical
+10,2017,Eagle,982903.0,retail
+10,2017,Fremont,143271.0,medical
+10,2017,El Paso,,retail
+10,2017,Garfield,265961.0,medical
+10,2017,Garfield,1773496.0,retail
+10,2017,Gilpin,,medical
+10,2017,Gilpin,197522.0,retail
+10,2017,Grand,,medical
+10,2017,Grand,,retail
+10,2017,Gunnison,,medical
+10,2017,Gunnison,562053.0,retail
+10,2017,Jefferson,1469845.0,medical
+10,2017,Huerfano,,retail
+10,2017,La Plata,299503.0,medical
+10,2017,Jefferson,4104272.0,retail
+10,2017,Larimer,1124315.0,medical
+10,2017,Lake,205966.0,retail
+10,2017,Las Animas,35561.0,medical
+10,2017,La Plata,1971031.0,retail
+10,2017,Mesa,,medical
+10,2017,Larimer,5315541.0,retail
+10,2017,Moffat,,medical
+10,2017,Las Animas,4192076.0,retail
+10,2017,Montezuma,61290.0,medical
+10,2017,Mesa,1007121.0,retail
+10,2017,Montrose,,medical
+10,2017,Montezuma,1759476.0,retail
+10,2017,Morgan,,medical
+10,2017,Morgan,944046.0,retail
+10,2017,Otero,,medical
+10,2017,Ouray,504899.0,retail
+10,2017,Ouray,,medical
+10,2017,Park,344712.0,retail
+10,2017,Park,,medical
+10,2017,Pitkin,703705.0,retail
+10,2017,Pitkin,57474.0,medical
+10,2017,Pueblo,3525795.0,retail
+10,2017,Pueblo,538665.0,medical
+10,2017,Routt,771913.0,retail
+10,2017,Routt,,medical
+10,2017,Saguache,117885.0,retail
+10,2017,San Miguel,,medical
+10,2017,San Juan,,retail
+10,2017,Sedgwick,,medical
+10,2017,San Miguel,266043.0,retail
+10,2017,Summit,120951.0,medical
+10,2017,Sedgwick,,retail
+10,2017,Teller,,medical
+10,2017,Summit,1295739.0,retail
+10,2017,Weld,327093.0,medical
+10,2017,Weld,2554620.0,retail
+10,2017,Sum of NR Counties,730702.0,medical
+10,2017,Sum of NR Counties,3191412.0,retail
+11,2017,Adams,999483.0,medical
+11,2017,Adams,5558469.0,retail
+11,2017,Alamosa,,medical
+11,2017,Arapahoe,9034873.0,retail
+11,2017,Arapahoe,755136.0,medical
+11,2017,Archuleta,508490.0,retail
+11,2017,Archuleta,,medical
+11,2017,Boulder,6329971.0,retail
+11,2017,Boulder,1770651.0,medical
+11,2017,Chaffee,347798.0,retail
+11,2017,Chaffee,,medical
+11,2017,Clear Creek,453940.0,retail
+11,2017,Clear Creek,38372.0,medical
+11,2017,Conejos,424081.0,retail
+11,2017,Denver,15704331.0,medical
+11,2017,Costilla,247946.0,retail
+11,2017,Eagle,118682.0,medical
+11,2017,Denver,31195308.0,retail
+11,2017,El Paso,7652843.0,medical
+11,2017,Eagle,980728.0,retail
+11,2017,Fremont,133101.0,medical
+11,2017,El Paso,,retail
+11,2017,Garfield,243896.0,medical
+11,2017,Garfield,1581537.0,retail
+11,2017,Gilpin,,medical
+11,2017,Gilpin,188913.0,retail
+11,2017,Grand,,medical
+11,2017,Grand,272045.0,retail
+11,2017,Gunnison,,medical
+11,2017,Gunnison,433357.0,retail
+11,2017,Jefferson,1302651.0,medical
+11,2017,Huerfano,,retail
+11,2017,La Plata,278348.0,medical
+11,2017,Jefferson,3678694.0,retail
+11,2017,Larimer,1095959.0,medical
+11,2017,Lake,174191.0,retail
+11,2017,Las Animas,36449.0,medical
+11,2017,La Plata,1753119.0,retail
+11,2017,Mesa,,medical
+11,2017,Larimer,5125412.0,retail
+11,2017,Moffat,,medical
+11,2017,Las Animas,3956545.0,retail
+11,2017,Montezuma,54431.0,medical
+11,2017,Mesa,963023.0,retail
+11,2017,Montrose,,medical
+11,2017,Montezuma,1658451.0,retail
+11,2017,Morgan,,medical
+11,2017,Morgan,880963.0,retail
+11,2017,Otero,,medical
+11,2017,Ouray,,retail
+11,2017,Ouray,,medical
+11,2017,Park,323525.0,retail
+11,2017,Park,,medical
+11,2017,Pitkin,571977.0,retail
+11,2017,Pitkin,53994.0,medical
+11,2017,Pueblo,3320340.0,retail
+11,2017,Pueblo,501175.0,medical
+11,2017,Routt,661206.0,retail
+11,2017,Routt,,medical
+11,2017,Saguache,95793.0,retail
+11,2017,San Miguel,,medical
+11,2017,San Juan,,retail
+11,2017,Sedgwick,,medical
+11,2017,San Miguel,181166.0,retail
+11,2017,Summit,114788.0,medical
+11,2017,Sedgwick,,retail
+11,2017,Weld,351629.0,medical
+11,2017,Summit,1411797.0,retail
+11,2017,Sum of NR Counties,672549.0,medical
+11,2017,Weld,2433403.0,retail
+5,2017,Adams,1075187.0,medical
+5,2017,Adams,5013781.0,retail
+5,2017,Alamosa,,medical
+5,2017,Arapahoe,9370054.0,retail
+5,2017,Arapahoe,1171273.0,medical
+5,2017,Archuleta,,retail
+5,2017,Archuleta,,medical
+5,2017,Boulder,6368428.0,retail
+5,2017,Boulder,1906922.0,medical
+5,2017,Chaffee,433627.0,retail
+5,2017,Chaffee,,medical
+5,2017,Clear Creek,460991.0,retail
+5,2017,Clear Creek,55309.0,medical
+5,2017,Conejos,444090.0,retail
+5,2017,Costilla,,medical
+5,2017,Costilla,332894.0,retail
+5,2017,Denver,18140806.0,medical
+5,2017,Denver,30503582.0,retail
+5,2017,Eagle,124904.0,medical
+5,2017,Eagle,689235.0,retail
+5,2017,El Paso,8925573.0,medical
+5,2017,El Paso,,retail
+5,2017,Fremont,,medical
+5,2017,Garfield,1911323.0,retail
+5,2017,Garfield,321107.0,medical
+5,2017,Gilpin,196823.0,retail
+5,2017,Gilpin,,medical
+5,2017,Grand,218635.0,retail
+5,2017,Grand,,medical
+5,2017,Gunnison,444435.0,retail
+5,2017,Gunnison,,medical
+5,2017,Huerfano,,retail
+5,2017,Jefferson,1274422.0,medical
+5,2017,Jefferson,4370646.0,retail
+5,2017,La Plata,313285.0,medical
+5,2017,La Plata,1980269.0,retail
+5,2017,Larimer,1167689.0,medical
+5,2017,Lake,197459.0,retail
+5,2017,Las Animas,,medical
+5,2017,Larimer,4562024.0,retail
+5,2017,Mesa,,medical
+5,2017,Las Animas,3471581.0,retail
+5,2017,Moffat,,medical
+5,2017,Mesa,,retail
+5,2017,Montezuma,70134.0,medical
+5,2017,Montezuma,1766079.0,retail
+5,2017,Montrose,,medical
+5,2017,Morgan,841413.0,retail
+5,2017,Morgan,,medical
+5,2017,Ouray,465454.0,retail
+5,2017,Otero,,medical
+5,2017,Park,314186.0,retail
+5,2017,Ouray,,medical
+5,2017,Pitkin,485392.0,retail
+5,2017,Park,,medical
+5,2017,Pueblo,3276386.0,retail
+5,2017,Pitkin,59097.0,medical
+5,2017,Routt,634839.0,retail
+5,2017,Pueblo,599384.0,medical
+5,2017,Saguache,,retail
+5,2017,Routt,,medical
+5,2017,San Juan,,retail
+5,2017,San Miguel,13661.0,medical
+5,2017,San Miguel,189132.0,retail
+5,2017,Sedgwick,,medical
+5,2017,Sedgwick,,retail
+5,2017,Summit,101828.0,medical
+5,2017,Summit,1140913.0,retail
+5,2017,Teller,,medical
+5,2017,Weld,2587473.0,retail
+5,2017,Weld,290867.0,medical
+5,2017,Sum of NR Counties,4341381.0,retail
+5,2017,Sum of NR Counties,910446.0,medical
+7,2015,Adams,456679.0,medical
+7,2015,Adams,1822902.0,retail
+7,2015,Alamosa,,medical
+7,2015,Arapahoe,4482419.0,retail
+7,2015,Arapahoe,1629440.0,medical
+7,2015,Archuleta,,retail
+7,2015,Archuleta,,medical
+7,2015,Boulder,4926814.0,retail
+7,2015,Boulder,2638188.0,medical
+7,2015,Chaffee,,retail
+7,2015,Chaffee,,medical
+7,2015,Clear Creek,558033.0,retail
+7,2015,Clear Creek,97914.0,medical
+7,2015,Conejos,,retail
+7,2015,Costilla,,medical
+7,2015,Costilla,,retail
+7,2015,Denver,19786382.0,medical
+7,2015,Denver,19851838.0,retail
+7,2015,Eagle,310266.0,medical
+7,2015,Eagle,745007.0,retail
+7,2015,El Paso,8504081.0,medical
+7,2015,El Paso,,retail
+7,2015,Fremont,242306.0,medical
+7,2015,Garfield,953213.0,retail
+7,2015,Garfield,481231.0,medical
+7,2015,Gilpin,185927.0,retail
+7,2015,Gilpin,,medical
+7,2015,Grand,230218.0,retail
+7,2015,Grand,,medical
+7,2015,Gunnison,454862.0,retail
+7,2015,Gunnison,,medical
+7,2015,Huerfano,,retail
+7,2015,Jefferson,2038463.0,medical
+7,2015,Jefferson,2891081.0,retail
+7,2015,La Plata,486029.0,medical
+7,2015,Lake,,retail
+7,2015,Larimer,1401524.0,medical
+7,2015,La Plata,1529417.0,retail
+7,2015,Las Animas,,medical
+7,2015,Larimer,2714363.0,retail
+7,2015,Mesa,,medical
+7,2015,Las Animas,1009958.0,retail
+7,2015,Moffat,,medical
+7,2015,Mesa,,retail
+7,2015,Montezuma,142880.0,medical
+7,2015,Montezuma,572832.0,retail
+7,2015,Montrose,,medical
+7,2015,Morgan,,retail
+7,2015,Morgan,,medical
+7,2015,Ouray,,retail
+7,2015,Ouray,,medical
+7,2015,Park,235832.0,retail
+7,2015,Park,,medical
+7,2015,Pitkin,850341.0,retail
+7,2015,Pitkin,94939.0,medical
+7,2015,Pueblo,1852589.0,retail
+7,2015,Pueblo,699033.0,medical
+7,2015,Routt,631836.0,retail
+7,2015,Routt,186072.0,medical
+7,2015,Saguache,,retail
+7,2015,San Miguel,51293.0,medical
+7,2015,San Juan,,retail
+7,2015,Sedgwick,,medical
+7,2015,San Miguel,387509.0,retail
+7,2015,Summit,246327.0,medical
+7,2015,Sedgwick,,retail
+7,2015,Teller,,medical
+7,2015,Summit,1304307.0,retail
+7,2015,Weld,364477.0,medical
+7,2015,Weld,1878564.0,retail
+7,2015,Sum of NR Counties,753615.0,medical
+7,2015,Sum of NR Counties,5245249.0,retail
+3,2015,Adams,479975.0,medical
+3,2015,Adams,1497796.0,retail
+3,2015,Alamosa,,medical
+3,2015,Arapahoe,2615133.0,retail
+3,2015,Arapahoe,1562845.0,medical
+3,2015,Archuleta,,retail
+3,2015,Archuleta,,medical
+3,2015,Boulder,3856723.0,retail
+3,2015,Boulder,2525620.0,medical
+3,2015,Chaffee,,retail
+3,2015,Chaffee,,medical
+3,2015,Clear Creek,485304.0,retail
+3,2015,Clear Creek,82344.0,medical
+3,2015,Costilla,,retail
+3,2015,Costilla,,medical
+3,2015,Denver,17121933.0,retail
+3,2015,Denver,14406613.0,medical
+3,2015,Eagle,862396.0,retail
+3,2015,Eagle,337864.0,medical
+3,2015,El Paso,,retail
+3,2015,El Paso,6380331.0,medical
+3,2015,Garfield,642659.0,retail
+3,2015,Fremont,194875.0,medical
+3,2015,Gilpin,117004.0,retail
+3,2015,Garfield,379738.0,medical
+3,2015,Grand,,retail
+3,2015,Gilpin,,medical
+3,2015,Gunnison,296334.0,retail
+3,2015,Grand,,medical
+3,2015,Jefferson,2224610.0,retail
+3,2015,Gunnison,,medical
+3,2015,Lake,,retail
+3,2015,Jefferson,1861813.0,medical
+3,2015,La Plata,1020552.0,retail
+3,2015,La Plata,1017530.0,medical
+3,2015,Larimer,1943174.0,retail
+3,2015,Larimer,1320406.0,medical
+3,2015,Las Animas,415008.0,retail
+3,2015,Las Animas,,medical
+3,2015,Mesa,,retail
+3,2015,Mesa,,medical
+3,2015,Montezuma,254446.0,retail
+3,2015,Moffat,,medical
+3,2015,Morgan,,retail
+3,2015,Montezuma,133639.0,medical
+3,2015,Ouray,,retail
+3,2015,Montrose,,medical
+3,2015,Park,146105.0,retail
+3,2015,Morgan,,medical
+3,2015,Pitkin,896693.0,retail
+3,2015,Ouray,,medical
+3,2015,Pueblo,1355119.0,retail
+3,2015,Park,,medical
+3,2015,Routt,616913.0,retail
+3,2015,Pitkin,85006.0,medical
+3,2015,Saguache,,retail
+3,2015,Pueblo,463245.0,medical
+3,2015,San Juan,,retail
+3,2015,Routt,199449.0,medical
+3,2015,San Miguel,375409.0,retail
+3,2015,San Miguel,50730.0,medical
+3,2015,Sedgwick,,retail
+3,2015,Sedgwick,,medical
+3,2015,Summit,1727608.0,retail
+3,2015,Summit,292686.0,medical
+3,2015,Weld,1443488.0,retail
+3,2015,Teller,,medical
+3,2015,Sum of NR Counties,3038219.0,retail
+3,2015,Weld,386290.0,medical
+3,2015,Sum of NR Counties,659549.0,medical
+1,2017,Adams,520138.0,medical
+1,2017,Adams,4192709.0,retail
+1,2017,Alamosa,,medical
+1,2017,Arapahoe,8481055.0,retail
+1,2017,Arapahoe,1137598.0,medical
+1,2017,Archuleta,,retail
+1,2017,Archuleta,,medical
+1,2017,Boulder,5351831.0,retail
+1,2017,Boulder,1943678.0,medical
+1,2017,Chaffee,316009.0,retail
+1,2017,Chaffee,,medical
+1,2017,Clear Creek,584198.0,retail
+1,2017,Clear Creek,52434.0,medical
+1,2017,Conejos,294331.0,retail
+1,2017,Costilla,,medical
+1,2017,Costilla,214330.0,retail
+1,2017,Denver,15275938.0,medical
+1,2017,Denver,25681498.0,retail
+1,2017,Eagle,135334.0,medical
+1,2017,Eagle,1297711.0,retail
+1,2017,El Paso,7656270.0,medical
+1,2017,El Paso,,retail
+1,2017,Fremont,,medical
+1,2017,Garfield,1373945.0,retail
+1,2017,Garfield,308266.0,medical
+1,2017,Gilpin,157003.0,retail
+1,2017,Gilpin,,medical
+1,2017,Grand,378163.0,retail
+1,2017,Grand,,medical
+1,2017,Gunnison,546542.0,retail
+1,2017,Gunnison,,medical
+1,2017,Huerfano,,retail
+1,2017,Jefferson,1370186.0,medical
+1,2017,Jefferson,4098431.0,retail
+1,2017,La Plata,301119.0,medical
+1,2017,Lake,188571.0,retail
+1,2017,Larimer,1099359.0,medical
+1,2017,La Plata,1655168.0,retail
+1,2017,Las Animas,,medical
+1,2017,Larimer,3695944.0,retail
+1,2017,Mesa,,medical
+1,2017,Las Animas,2162976.0,retail
+1,2017,Moffat,,medical
+1,2017,Mesa,,retail
+1,2017,Montezuma,55703.0,medical
+1,2017,Montezuma,1146208.0,retail
+1,2017,Montrose,,medical
+1,2017,Morgan,,retail
+1,2017,Morgan,,medical
+1,2017,Ouray,326182.0,retail
+1,2017,Otero,,medical
+1,2017,Park,267804.0,retail
+1,2017,Ouray,,medical
+1,2017,Pitkin,1164037.0,retail
+1,2017,Park,,medical
+1,2017,Pueblo,2334107.0,retail
+1,2017,Pitkin,66911.0,medical
+1,2017,Routt,938153.0,retail
+1,2017,Pueblo,515017.0,medical
+1,2017,Saguache,,retail
+1,2017,Routt,186048.0,medical
+1,2017,San Juan,,retail
+1,2017,San Miguel,35319.0,medical
+1,2017,San Miguel,426586.0,retail
+1,2017,Sedgwick,,medical
+1,2017,Sedgwick,,retail
+1,2017,Summit,,medical
+1,2017,Summit,2678675.0,retail
+1,2017,Teller,,medical
+1,2017,Weld,2382718.0,retail
+1,2017,Weld,267811.0,medical
+1,2017,Sum of NR Counties,3683538.0,retail
+1,2017,Sum of NR Counties,785479.0,medical
+2,2015,Adams,434375.0,medical
+2,2015,Adams,,retail
+2,2015,Alamosa,,medical
+2,2015,Arapahoe,2114064.0,retail
+2,2015,Arapahoe,1402007.0,medical
+2,2015,Archuleta,,retail
+2,2015,Archuleta,,medical
+2,2015,Boulder,3209140.0,retail
+2,2015,Boulder,2257951.0,medical
+2,2015,Chaffee,,retail
+2,2015,Chaffee,,medical
+2,2015,Clear Creek,416086.0,retail
+2,2015,Clear Creek,77001.0,medical
+2,2015,Costilla,,retail
+2,2015,Costilla,,medical
+2,2015,Denver,14411812.0,retail
+2,2015,Denver,12841486.0,medical
+2,2015,Eagle,735296.0,retail
+2,2015,Eagle,292481.0,medical
+2,2015,El Paso,,retail
+2,2015,El Paso,5578020.0,medical
+2,2015,Garfield,535881.0,retail
+2,2015,Fremont,175136.0,medical
+2,2015,Gilpin,104647.0,retail
+2,2015,Garfield,348057.0,medical
+2,2015,Grand,,retail
+2,2015,Gilpin,28410.0,medical
+2,2015,Gunnison,224407.0,retail
+2,2015,Grand,,medical
+2,2015,Jefferson,1960725.0,retail
+2,2015,Gunnison,,medical
+2,2015,Lake,,retail
+2,2015,Jefferson,1700441.0,medical
+2,2015,La Plata,840795.0,retail
+2,2015,La Plata,892507.0,medical
+2,2015,Larimer,1685559.0,retail
+2,2015,Larimer,1111034.0,medical
+2,2015,Las Animas,287148.0,retail
+2,2015,Las Animas,,medical
+2,2015,Mesa,,retail
+2,2015,Mesa,,medical
+2,2015,Montezuma,159174.0,retail
+2,2015,Moffat,,medical
+2,2015,Morgan,,retail
+2,2015,Montezuma,104595.0,medical
+2,2015,Ouray,,retail
+2,2015,Montrose,,medical
+2,2015,Park,,retail
+2,2015,Morgan,,medical
+2,2015,Pitkin,705757.0,retail
+2,2015,Ouray,,medical
+2,2015,Pueblo,1039417.0,retail
+2,2015,Park,,medical
+2,2015,Routt,,retail
+2,2015,Pitkin,75050.0,medical
+2,2015,Saguache,,retail
+2,2015,Pueblo,358140.0,medical
+2,2015,San Juan,,retail
+2,2015,Routt,,medical
+2,2015,San Miguel,300473.0,retail
+2,2015,San Miguel,41195.0,medical
+2,2015,Sedgwick,,retail
+2,2015,Sedgwick,,medical
+2,2015,Summit,1393552.0,retail
+2,2015,Summit,246053.0,medical
+2,2015,Weld,1270638.0,retail
+2,2015,Teller,,medical
+2,2015,Sum of NR Counties,4448618.0,retail
+2,2015,Weld,364563.0,medical
+2,2015,Sum of NR Counties,737571.0,medical
+2,2017,Adams,602151.0,medical
+2,2017,Adams,4117924.0,retail
+2,2017,Alamosa,,medical
+2,2017,Arapahoe,8243087.0,retail
+2,2017,Arapahoe,1330979.0,medical
+2,2017,Archuleta,498578.0,retail
+2,2017,Archuleta,,medical
+2,2017,Boulder,5165008.0,retail
+2,2017,Boulder,1728022.0,medical
+2,2017,Chaffee,311277.0,retail
+2,2017,Chaffee,,medical
+2,2017,Clear Creek,551247.0,retail
+2,2017,Clear Creek,59126.0,medical
+2,2017,Conejos,331768.0,retail
+2,2017,Costilla,,medical
+2,2017,Costilla,214658.0,retail
+2,2017,Denver,14300291.0,medical
+2,2017,Denver,25223748.0,retail
+2,2017,Eagle,136357.0,medical
+2,2017,Eagle,1277562.0,retail
+2,2017,El Paso,7876520.0,medical
+2,2017,El Paso,,retail
+2,2017,Fremont,164115.0,medical
+2,2017,Garfield,1492785.0,retail
+2,2017,Garfield,274508.0,medical
+2,2017,Gilpin,180512.0,retail
+2,2017,Gilpin,,medical
+2,2017,Grand,366095.0,retail
+2,2017,Grand,,medical
+2,2017,Gunnison,493440.0,retail
+2,2017,Gunnison,,medical
+2,2017,Huerfano,,retail
+2,2017,Jefferson,1519126.0,medical
+2,2017,Jefferson,3970982.0,retail
+2,2017,La Plata,282052.0,medical
+2,2017,La Plata,1708769.0,retail
+2,2017,Larimer,1041868.0,medical
+2,2017,Lake,187885.0,retail
+2,2017,Las Animas,31212.0,medical
+2,2017,Larimer,3771110.0,retail
+2,2017,Mesa,,medical
+2,2017,Las Animas,2558480.0,retail
+2,2017,Moffat,,medical
+2,2017,Mesa,,retail
+2,2017,Montezuma,57030.0,medical
+2,2017,Montezuma,1275430.0,retail
+2,2017,Montrose,,medical
+2,2017,Morgan,623494.0,retail
+2,2017,Morgan,,medical
+2,2017,Ouray,331947.0,retail
+2,2017,Otero,,medical
+2,2017,Park,275968.0,retail
+2,2017,Ouray,,medical
+2,2017,Pitkin,1076901.0,retail
+2,2017,Park,,medical
+2,2017,Pueblo,2575500.0,retail
+2,2017,Pitkin,64017.0,medical
+2,2017,Routt,912576.0,retail
+2,2017,Pueblo,562271.0,medical
+2,2017,Saguache,,retail
+2,2017,Routt,161179.0,medical
+2,2017,San Juan,,retail
+2,2017,San Miguel,22889.0,medical
+2,2017,San Miguel,394742.0,retail
+2,2017,Sedgwick,,medical
+2,2017,Sedgwick,,retail
+2,2017,Summit,138716.0,medical
+2,2017,Summit,2403241.0,retail
+2,2017,Teller,,medical
+2,2017,Weld,2440896.0,retail
+2,2017,Weld,270319.0,medical
+2,2017,Sum of NR Counties,2690356.0,retail
+2,2017,Sum of NR Counties,451665.0,medical
+3,2017,Adams,913402.0,medical
+3,2017,Adams,5044686.0,retail
+3,2017,Alamosa,,medical
+3,2017,Arapahoe,10106784.0,retail
+3,2017,Arapahoe,1334138.0,medical
+3,2017,Archuleta,605222.0,retail
+3,2017,Archuleta,,medical
+3,2017,Boulder,6322530.0,retail
+3,2017,Boulder,1997004.0,medical
+3,2017,Chaffee,423717.0,retail
+3,2017,Chaffee,,medical
+3,2017,Clear Creek,640228.0,retail
+3,2017,Clear Creek,64572.0,medical
+3,2017,Conejos,401292.0,retail
+3,2017,Costilla,,medical
+3,2017,Costilla,295783.0,retail
+3,2017,Denver,17960587.0,medical
+3,2017,Denver,30626743.0,retail
+3,2017,Eagle,163530.0,medical
+3,2017,Eagle,1472005.0,retail
+3,2017,El Paso,9287927.0,medical
+3,2017,El Paso,,retail
+3,2017,Fremont,182868.0,medical
+3,2017,Garfield,1854980.0,retail
+3,2017,Garfield,336144.0,medical
+3,2017,Gilpin,216220.0,retail
+3,2017,Gilpin,,medical
+3,2017,Grand,452276.0,retail
+3,2017,Grand,,medical
+3,2017,Gunnison,617409.0,retail
+3,2017,Gunnison,,medical
+3,2017,Huerfano,,retail
+3,2017,Jefferson,1607995.0,medical
+3,2017,Jefferson,4831958.0,retail
+3,2017,La Plata,338875.0,medical
+3,2017,La Plata,2125562.0,retail
+3,2017,Larimer,1197682.0,medical
+3,2017,Lake,,retail
+3,2017,Las Animas,35131.0,medical
+3,2017,Larimer,4573556.0,retail
+3,2017,Mesa,,medical
+3,2017,Las Animas,3349342.0,retail
+3,2017,Moffat,,medical
+3,2017,Mesa,,retail
+3,2017,Montezuma,63516.0,medical
+3,2017,Montezuma,1684919.0,retail
+3,2017,Montrose,,medical
+3,2017,Morgan,,retail
+3,2017,Morgan,,medical
+3,2017,Ouray,,retail
+3,2017,Otero,,medical
+3,2017,Park,356540.0,retail
+3,2017,Ouray,,medical
+3,2017,Pitkin,1277247.0,retail
+3,2017,Park,,medical
+3,2017,Pueblo,3341395.0,retail
+3,2017,Pitkin,74384.0,medical
+3,2017,Routt,1010851.0,retail
+3,2017,Pueblo,676620.0,medical
+3,2017,Saguache,,retail
+3,2017,Routt,,medical
+3,2017,San Juan,,retail
+3,2017,San Miguel,27209.0,medical
+3,2017,San Miguel,477587.0,retail
+3,2017,Sedgwick,,medical
+3,2017,Sedgwick,,retail
+3,2017,Summit,158399.0,medical
+3,2017,Summit,2854198.0,retail
+3,2017,Teller,,medical
+3,2017,Weld,2751277.0,retail
+3,2017,Weld,297470.0,medical
+3,2017,Sum of NR Counties,5197840.0,retail
+3,2017,Sum of NR Counties,734230.0,medical
+1,2015,Adams,421362.0,medical
+1,2015,Adams,1189877.0,retail
+1,2015,Alamosa,,medical
+1,2015,Arapahoe,1844768.0,retail
+1,2015,Arapahoe,1493744.0,medical
+1,2015,Archuleta,,retail
+1,2015,Archuleta,,medical
+1,2015,Boulder,3565252.0,retail
+1,2015,Boulder,2501072.0,medical
+1,2015,Chaffee,,retail
+1,2015,Chaffee,,medical
+1,2015,Clear Creek,455108.0,retail
+1,2015,Clear Creek,79640.0,medical
+1,2015,Costilla,,retail
+1,2015,Costilla,,medical
+1,2015,Denver,15485689.0,retail
+1,2015,Denver,13374117.0,medical
+1,2015,Eagle,825587.0,retail
+1,2015,Eagle,316095.0,medical
+1,2015,El Paso,,retail
+1,2015,El Paso,5582451.0,medical
+1,2015,Garfield,616641.0,retail
+1,2015,Fremont,180201.0,medical
+1,2015,Gilpin,112455.0,retail
+1,2015,Garfield,325730.0,medical
+1,2015,Grand,,retail
+1,2015,Gilpin,31006.0,medical
+1,2015,Gunnison,273043.0,retail
+1,2015,Grand,,medical
+1,2015,Jefferson,2108127.0,retail
+1,2015,Gunnison,,medical
+1,2015,Lake,,retail
+1,2015,Jefferson,1868844.0,medical
+1,2015,La Plata,798627.0,retail
+1,2015,La Plata,893330.0,medical
+1,2015,Larimer,1728021.0,retail
+1,2015,Larimer,1141214.0,medical
+1,2015,Las Animas,224113.0,retail
+1,2015,Las Animas,,medical
+1,2015,Mesa,,retail
+1,2015,Mesa,,medical
+1,2015,Montezuma,,retail
+1,2015,Moffat,,medical
+1,2015,Morgan,,retail
+1,2015,Montezuma,114767.0,medical
+1,2015,Ouray,,retail
+1,2015,Montrose,,medical
+1,2015,Park,,retail
+1,2015,Morgan,,medical
+1,2015,Pitkin,813722.0,retail
+1,2015,Ouray,,medical
+1,2015,Pueblo,1063092.0,retail
+1,2015,Park,,medical
+1,2015,Routt,,retail
+1,2015,Pitkin,90522.0,medical
+1,2015,Saguache,,retail
+1,2015,Pueblo,359950.0,medical
+1,2015,San Juan,,retail
+1,2015,Routt,,medical
+1,2015,San Miguel,374588.0,retail
+1,2015,San Miguel,50579.0,medical
+1,2015,Sedgwick,,retail
+1,2015,Sedgwick,,medical
+1,2015,Summit,1685111.0,retail
+1,2015,Summit,255639.0,medical
+1,2015,Weld,1199406.0,retail
+1,2015,Teller,,medical
+1,2015,Sum of NR Counties,2860806.0,retail
+1,2015,Weld,340278.0,medical
+1,2015,Sum of NR Counties,761292.0,medical
+8,2017,Adams,1126750.0,medical
+8,2017,Adams,5481342.0,retail
+8,2017,Alamosa,,medical
+8,2017,Arapahoe,9187128.0,retail
+8,2017,Arapahoe,911448.0,medical
+8,2017,Archuleta,776784.0,retail
+8,2017,Archuleta,,medical
+8,2017,Boulder,7401555.0,retail
+8,2017,Boulder,1883573.0,medical
+8,2017,Chaffee,614319.0,retail
+8,2017,Chaffee,,medical
+8,2017,Clear Creek,632988.0,retail
+8,2017,Clear Creek,43341.0,medical
+8,2017,Conejos,571105.0,retail
+8,2017,Costilla,,medical
+8,2017,Costilla,400679.0,retail
+8,2017,Denver,18574912.0,medical
+8,2017,Denver,35043361.0,retail
+8,2017,Eagle,154928.0,medical
+8,2017,Eagle,1394312.0,retail
+8,2017,El Paso,8645974.0,medical
+8,2017,El Paso,,retail
+8,2017,Fremont,184251.0,medical
+8,2017,Garfield,2108270.0,retail
+8,2017,Garfield,325823.0,medical
+8,2017,Gilpin,251283.0,retail
+8,2017,Gilpin,,medical
+8,2017,Grand,426846.0,retail
+8,2017,Grand,,medical
+8,2017,Gunnison,809595.0,retail
+8,2017,Gunnison,,medical
+8,2017,Huerfano,,retail
+8,2017,Jefferson,1353370.0,medical
+8,2017,Jefferson,4474575.0,retail
+8,2017,La Plata,298055.0,medical
+8,2017,Lake,322375.0,retail
+8,2017,Larimer,1206766.0,medical
+8,2017,La Plata,2289292.0,retail
+8,2017,Las Animas,45309.0,medical
+8,2017,Larimer,5554496.0,retail
+8,2017,Mesa,,medical
+8,2017,Las Animas,4437323.0,retail
+8,2017,Moffat,,medical
+8,2017,Mesa,,retail
+8,2017,Montezuma,93411.0,medical
+8,2017,Montezuma,1862970.0,retail
+8,2017,Montrose,,medical
+8,2017,Morgan,964989.0,retail
+8,2017,Morgan,,medical
+8,2017,Ouray,621133.0,retail
+8,2017,Otero,,medical
+8,2017,Park,455141.0,retail
+8,2017,Ouray,,medical
+8,2017,Pitkin,1205815.0,retail
+8,2017,Park,,medical
+8,2017,Pueblo,3815493.0,retail
+8,2017,Pitkin,66581.0,medical
+8,2017,Routt,976301.0,retail
+8,2017,Pueblo,737016.0,medical
+8,2017,Saguache,,retail
+8,2017,Routt,,medical
+8,2017,San Juan,,retail
+8,2017,San Miguel,21450.0,medical
+8,2017,San Miguel,450802.0,retail
+8,2017,Sedgwick,,medical
+8,2017,Sedgwick,,retail
+8,2017,Summit,112638.0,medical
+8,2017,Summit,1890882.0,retail
+8,2017,Teller,,medical
+8,2017,Weld,2708742.0,retail
+8,2017,Weld,315417.0,medical
+8,2017,Sum of NR Counties,4418186.0,retail
+8,2017,Sum of NR Counties,820062.0,medical
+9,2017,Adams,986385.0,medical
+9,2017,Adams,5591544.0,retail
+9,2017,Alamosa,,medical
+9,2017,Arapahoe,9476898.0,retail
+9,2017,Arapahoe,868838.0,medical
+9,2017,Archuleta,715518.0,retail
+9,2017,Archuleta,,medical
+9,2017,Boulder,7089840.0,retail
+9,2017,Boulder,1867935.0,medical
+9,2017,Chaffee,547218.0,retail
+9,2017,Chaffee,,medical
+9,2017,Clear Creek,570485.0,retail
+9,2017,Clear Creek,45086.0,medical
+9,2017,Conejos,555120.0,retail
+9,2017,Costilla,,medical
+9,2017,Costilla,424241.0,retail
+9,2017,Denver,17531038.0,medical
+9,2017,Denver,34766657.0,retail
+9,2017,Eagle,138445.0,medical
+9,2017,Eagle,1212598.0,retail
+9,2017,El Paso,8591074.0,medical
+9,2017,El Paso,,retail
+9,2017,Fremont,166500.0,medical
+9,2017,Garfield,2104540.0,retail
+9,2017,Garfield,320870.0,medical
+9,2017,Gilpin,266428.0,retail
+9,2017,Gilpin,,medical
+9,2017,Grand,355550.0,retail
+9,2017,Grand,,medical
+9,2017,Gunnison,728296.0,retail
+9,2017,Gunnison,,medical
+9,2017,Huerfano,,retail
+9,2017,Jefferson,1391833.0,medical
+9,2017,Jefferson,4335662.0,retail
+9,2017,La Plata,301865.0,medical
+9,2017,Lake,272842.0,retail
+9,2017,Larimer,1214136.0,medical
+9,2017,La Plata,2211371.0,retail
+9,2017,Las Animas,42148.0,medical
+9,2017,Larimer,5491456.0,retail
+9,2017,Mesa,,medical
+9,2017,Las Animas,4669330.0,retail
+9,2017,Moffat,,medical
+9,2017,Mesa,931484.0,retail
+9,2017,Montezuma,74493.0,medical
+9,2017,Montezuma,1890596.0,retail
+9,2017,Montrose,,medical
+9,2017,Morgan,972694.0,retail
+9,2017,Morgan,,medical
+9,2017,Ouray,641630.0,retail
+9,2017,Otero,,medical
+9,2017,Park,401682.0,retail
+9,2017,Ouray,,medical
+9,2017,Pitkin,1058088.0,retail
+9,2017,Park,,medical
+9,2017,Pueblo,3869882.0,retail
+9,2017,Pitkin,64771.0,medical
+9,2017,Routt,924592.0,retail
+9,2017,Pueblo,677550.0,medical
+9,2017,Saguache,151900.0,retail
+9,2017,Routt,,medical
+9,2017,San Juan,,retail
+9,2017,San Miguel,,medical
+9,2017,San Miguel,475875.0,retail
+9,2017,Sedgwick,,medical
+9,2017,Sedgwick,,retail
+9,2017,Summit,115774.0,medical
+9,2017,Summit,1561814.0,retail
+9,2017,Weld,330702.0,medical
+9,2017,Weld,2723950.0,retail
+9,2017,Sum of NR Counties,788590.0,medical
+9,2017,Sum of NR Counties,3290855.0,retail
+9,2015,Adams,456102.0,medical
+9,2015,Adams,2066128.0,retail
+9,2015,Alamosa,,medical
+9,2015,Arapahoe,5321883.0,retail
+9,2015,Arapahoe,1821831.0,medical
+9,2015,Archuleta,,retail
+9,2015,Archuleta,,medical
+9,2015,Boulder,4564394.0,retail
+9,2015,Boulder,2808636.0,medical
+9,2015,Chaffee,391518.0,retail
+9,2015,Chaffee,,medical
+9,2015,Clear Creek,490483.0,retail
+9,2015,Clear Creek,98054.0,medical
+9,2015,Conejos,,retail
+9,2015,Costilla,,medical
+9,2015,Costilla,,retail
+9,2015,Denver,18017794.0,medical
+9,2015,Denver,19062651.0,retail
+9,2015,Eagle,306549.0,medical
+9,2015,Eagle,632711.0,retail
+9,2015,El Paso,8632187.0,medical
+9,2015,El Paso,,retail
+9,2015,Fremont,262093.0,medical
+9,2015,Garfield,888159.0,retail
+9,2015,Garfield,558081.0,medical
+9,2015,Gilpin,206010.0,retail
+9,2015,Gilpin,31881.0,medical
+9,2015,Grand,182101.0,retail
+9,2015,Grand,,medical
+9,2015,Gunnison,333527.0,retail
+9,2015,Gunnison,,medical
+9,2015,Huerfano,,retail
+9,2015,Jefferson,2096374.0,medical
+9,2015,Jefferson,2859786.0,retail
+9,2015,La Plata,489476.0,medical
+9,2015,Lake,,retail
+9,2015,Larimer,1546038.0,medical
+9,2015,La Plata,1596319.0,retail
+9,2015,Las Animas,,medical
+9,2015,Larimer,2735329.0,retail
+9,2015,Mesa,,medical
+9,2015,Las Animas,1018744.0,retail
+9,2015,Moffat,,medical
+9,2015,Mesa,,retail
+9,2015,Montezuma,122425.0,medical
+9,2015,Montezuma,605971.0,retail
+9,2015,Montrose,,medical
+9,2015,Morgan,,retail
+9,2015,Morgan,,medical
+9,2015,Ouray,342064.0,retail
+9,2015,Ouray,,medical
+9,2015,Park,185916.0,retail
+9,2015,Park,,medical
+9,2015,Pitkin,627987.0,retail
+9,2015,Pitkin,90803.0,medical
+9,2015,Pueblo,1721621.0,retail
+9,2015,Pueblo,1004209.0,medical
+9,2015,Routt,576410.0,retail
+9,2015,Routt,216833.0,medical
+9,2015,Saguache,,retail
+9,2015,San Miguel,53511.0,medical
+9,2015,San Juan,,retail
+9,2015,Sedgwick,,medical
+9,2015,San Miguel,330093.0,retail
+9,2015,Summit,235065.0,medical
+9,2015,Sedgwick,,retail
+9,2015,Teller,,medical
+9,2015,Summit,1024344.0,retail
+9,2015,Weld,447995.0,medical
+9,2015,Weld,1804494.0,retail
+9,2015,Sum of NR Counties,695876.0,medical
+9,2015,Sum of NR Counties,4070723.0,retail
+8,2015,Adams,414843.0,medical
+8,2015,Adams,2007490.0,retail
+8,2015,Alamosa,,medical
+8,2015,Arapahoe,5068738.0,retail
+8,2015,Arapahoe,1782767.0,medical
+8,2015,Archuleta,,retail
+8,2015,Archuleta,,medical
+8,2015,Boulder,5076823.0,retail
+8,2015,Boulder,2854869.0,medical
+8,2015,Chaffee,529711.0,retail
+8,2015,Chaffee,,medical
+8,2015,Clear Creek,549270.0,retail
+8,2015,Clear Creek,99241.0,medical
+8,2015,Conejos,,retail
+8,2015,Costilla,,medical
+8,2015,Costilla,,retail
+8,2015,Denver,18920270.0,medical
+8,2015,Denver,20586503.0,retail
+8,2015,Eagle,321194.0,medical
+8,2015,Eagle,755726.0,retail
+8,2015,El Paso,8703525.0,medical
+8,2015,El Paso,,retail
+8,2015,Fremont,247910.0,medical
+8,2015,Garfield,919088.0,retail
+8,2015,Garfield,623488.0,medical
+8,2015,Gilpin,209981.0,retail
+8,2015,Gilpin,33160.0,medical
+8,2015,Grand,234153.0,retail
+8,2015,Grand,,medical
+8,2015,Gunnison,454015.0,retail
+8,2015,Gunnison,,medical
+8,2015,Huerfano,,retail
+8,2015,Jefferson,2119709.0,medical
+8,2015,Jefferson,3008160.0,retail
+8,2015,La Plata,468119.0,medical
+8,2015,Lake,,retail
+8,2015,Larimer,1506663.0,medical
+8,2015,La Plata,1517581.0,retail
+8,2015,Las Animas,,medical
+8,2015,Larimer,2921981.0,retail
+8,2015,Mesa,,medical
+8,2015,Las Animas,1043528.0,retail
+8,2015,Moffat,,medical
+8,2015,Mesa,,retail
+8,2015,Montezuma,141894.0,medical
+8,2015,Montezuma,602753.0,retail
+8,2015,Montrose,,medical
+8,2015,Morgan,,retail
+8,2015,Morgan,,medical
+8,2015,Ouray,,retail
+8,2015,Ouray,,medical
+8,2015,Park,220562.0,retail
+8,2015,Park,,medical
+8,2015,Pitkin,815391.0,retail
+8,2015,Pitkin,100615.0,medical
+8,2015,Pueblo,1894167.0,retail
+8,2015,Pueblo,879622.0,medical
+8,2015,Routt,649959.0,retail
+8,2015,Routt,197957.0,medical
+8,2015,Saguache,,retail
+8,2015,San Miguel,48630.0,medical
+8,2015,San Juan,,retail
+8,2015,Sedgwick,,medical
+8,2015,San Miguel,367696.0,retail
+8,2015,Summit,237146.0,medical
+8,2015,Sedgwick,,retail
+8,2015,Teller,,medical
+8,2015,Summit,1325273.0,retail
+8,2015,Weld,429172.0,medical
+8,2015,Weld,1964176.0,retail
+8,2015,Sum of NR Counties,688574.0,medical
+8,2015,Sum of NR Counties,4956757.0,retail
+2,2018,Adams,686490.0,medical
+2,2018,Adams,5562602.0,retail
+2,2018,Alamosa,,medical
+2,2018,Arapahoe,8659080.0,retail
+2,2018,Arapahoe,788639.0,medical
+2,2018,Archuleta,568046.0,retail
+2,2018,Archuleta,,medical
+2,2018,Boulder,5937258.0,retail
+2,2018,Boulder,1481838.0,medical
+2,2018,Chaffee,364706.0,retail
+2,2018,Chaffee,,medical
+2,2018,Clear Creek,578860.0,retail
+2,2018,Clear Creek,28097.0,medical
+2,2018,Conejos,383902.0,retail
+2,2018,Denver,11430319.0,medical
+2,2018,Costilla,254480.0,retail
+2,2018,Eagle,119561.0,medical
+2,2018,Denver,27629202.0,retail
+2,2018,El Paso,7412365.0,medical
+2,2018,Eagle,1633799.0,retail
+2,2018,Fremont,134945.0,medical
+2,2018,El Paso,,retail
+2,2018,Garfield,239710.0,medical
+2,2018,Garfield,1361931.0,retail
+2,2018,Gilpin,,medical
+2,2018,Gilpin,162046.0,retail
+2,2018,Grand,,medical
+2,2018,Grand,455352.0,retail
+2,2018,Jefferson,1205386.0,medical
+2,2018,Gunnison,518883.0,retail
+2,2018,La Plata,277446.0,medical
+2,2018,Huerfano,,retail
+2,2018,Larimer,1057880.0,medical
+2,2018,Jefferson,3648040.0,retail
+2,2018,Las Animas,36072.0,medical
+2,2018,Lake,197617.0,retail
+2,2018,Mesa,,medical
+2,2018,La Plata,1752698.0,retail
+2,2018,Moffat,,medical
+2,2018,Larimer,4825740.0,retail
+2,2018,Montezuma,52213.0,medical
+2,2018,Las Animas,3477803.0,retail
+2,2018,Montrose,,medical
+2,2018,Mesa,1179371.0,retail
+2,2018,Morgan,,medical
+2,2018,Montezuma,1646139.0,retail
+2,2018,Otero,,medical
+2,2018,Morgan,821939.0,retail
+2,2018,Ouray,,medical
+2,2018,Ouray,436779.0,retail
+2,2018,Park,,medical
+2,2018,Park,303972.0,retail
+2,2018,Pitkin,58230.0,medical
+2,2018,Pitkin,1215285.0,retail
+2,2018,Pueblo,508986.0,medical
+2,2018,Pueblo,3697366.0,retail
+2,2018,Routt,158779.0,medical
+2,2018,Routt,1072374.0,retail
+2,2018,San Miguel,,medical
+2,2018,Saguache,98025.0,retail
+2,2018,Sedgwick,,medical
+2,2018,San Juan,,retail
+2,2018,Summit,106905.0,medical
+2,2018,San Miguel,428164.0,retail
+2,2018,Weld,327679.0,medical
+2,2018,Sedgwick,,retail
+2,2018,Sum of NR Counties,528764.0,medical
+2,2018,Summit,2548153.0,retail
+3,2018,Adams,455735.0,medical
+3,2018,Adams,6602994.0,retail
+3,2018,Alamosa,,medical
+3,2018,Arapahoe,9956392.0,retail
+3,2018,Arapahoe,831623.0,medical
+3,2018,Archuleta,785123.0,retail
+3,2018,Archuleta,,medical
+3,2018,Boulder,7245363.0,retail
+3,2018,Boulder,1691157.0,medical
+3,2018,Chaffee,469806.0,retail
+3,2018,Chaffee,,medical
+3,2018,Clear Creek,709544.0,retail
+3,2018,Clear Creek,42961.0,medical
+3,2018,Conejos,482119.0,retail
+3,2018,Denver,12756286.0,medical
+3,2018,Costilla,335071.0,retail
+3,2018,Eagle,107351.0,medical
+3,2018,Denver,34757371.0,retail
+3,2018,El Paso,8239341.0,medical
+3,2018,Eagle,1888834.0,retail
+3,2018,Fremont,120020.0,medical
+3,2018,El Paso,,retail
+3,2018,Garfield,288623.0,medical
+3,2018,Garfield,1625638.0,retail
+3,2018,Gilpin,,medical
+3,2018,Gilpin,223369.0,retail
+3,2018,Grand,,medical
+3,2018,Grand,,retail
+3,2018,Jefferson,1413017.0,medical
+3,2018,Gunnison,,retail
+3,2018,La Plata,251773.0,medical
+3,2018,Huerfano,,retail
+3,2018,Larimer,1151055.0,medical
+3,2018,Jefferson,4318064.0,retail
+3,2018,Las Animas,32453.0,medical
+3,2018,Lake,240748.0,retail
+3,2018,Mesa,,medical
+3,2018,La Plata,2154494.0,retail
+3,2018,Moffat,,medical
+3,2018,Larimer,5839729.0,retail
+3,2018,Montezuma,57109.0,medical
+3,2018,Las Animas,4619588.0,retail
+3,2018,Montrose,,medical
+3,2018,Mesa,1535841.0,retail
+3,2018,Morgan,,medical
+3,2018,Moffat,,retail
+3,2018,Otero,,medical
+3,2018,Montezuma,2033604.0,retail
+3,2018,Ouray,,medical
+3,2018,Morgan,1062942.0,retail
+3,2018,Park,,medical
+3,2018,Ouray,,retail
+3,2018,Pitkin,,medical
+3,2018,Park,386538.0,retail
+3,2018,Pueblo,574112.0,medical
+3,2018,Pitkin,1517035.0,retail
+3,2018,Routt,168347.0,medical
+3,2018,Pueblo,4770132.0,retail
+3,2018,San Miguel,,medical
+3,2018,Routt,1153952.0,retail
+3,2018,Sedgwick,,medical
+3,2018,Saguache,137847.0,retail
+3,2018,Summit,121159.0,medical
+3,2018,San Juan,,retail
+3,2018,Weld,370633.0,medical
+3,2018,San Miguel,503751.0,retail
+3,2018,Sum of NR Counties,565925.0,medical
+3,2018,Sedgwick,,retail
+1,2018,Adams,803293.0,medical
+1,2018,Adams,6081061.0,retail
+1,2018,Alamosa,,medical
+1,2018,Arapahoe,9032907.0,retail
+1,2018,Arapahoe,844394.0,medical
+1,2018,Archuleta,624455.0,retail
+1,2018,Archuleta,,medical
+1,2018,Boulder,6212027.0,retail
+1,2018,Boulder,1647031.0,medical
+1,2018,Chaffee,340366.0,retail
+1,2018,Chaffee,,medical
+1,2018,Clear Creek,596376.0,retail
+1,2018,Clear Creek,29971.0,medical
+1,2018,Conejos,390971.0,retail
+1,2018,Denver,13211845.0,medical
+1,2018,Costilla,246490.0,retail
+1,2018,Eagle,132762.0,medical
+1,2018,Denver,28855834.0,retail
+1,2018,El Paso,7661315.0,medical
+1,2018,Eagle,1599616.0,retail
+1,2018,Fremont,134858.0,medical
+1,2018,El Paso,,retail
+1,2018,Garfield,249651.0,medical
+1,2018,Garfield,1391402.0,retail
+1,2018,Gilpin,,medical
+1,2018,Gilpin,167184.0,retail
+1,2018,Grand,,medical
+1,2018,Grand,462433.0,retail
+1,2018,Gunnison,,medical
+1,2018,Gunnison,600542.0,retail
+1,2018,Jefferson,1278807.0,medical
+1,2018,Huerfano,,retail
+1,2018,La Plata,273077.0,medical
+1,2018,Jefferson,3912816.0,retail
+1,2018,Larimer,1122353.0,medical
+1,2018,Lake,223602.0,retail
+1,2018,Las Animas,44461.0,medical
+1,2018,La Plata,1675203.0,retail
+1,2018,Mesa,,medical
+1,2018,Larimer,4982764.0,retail
+1,2018,Moffat,,medical
+1,2018,Las Animas,3370017.0,retail
+1,2018,Montezuma,54617.0,medical
+1,2018,Mesa,1069286.0,retail
+1,2018,Montrose,,medical
+1,2018,Montezuma,1514572.0,retail
+1,2018,Morgan,,medical
+1,2018,Morgan,748636.0,retail
+1,2018,Otero,,medical
+1,2018,Ouray,409591.0,retail
+1,2018,Ouray,,medical
+1,2018,Park,334849.0,retail
+1,2018,Park,,medical
+1,2018,Pitkin,1361900.0,retail
+1,2018,Pitkin,65391.0,medical
+1,2018,Pueblo,3448129.0,retail
+1,2018,Pueblo,531897.0,medical
+1,2018,Routt,1140165.0,retail
+1,2018,Routt,165408.0,medical
+1,2018,Saguache,99344.0,retail
+1,2018,San Miguel,,medical
+1,2018,San Juan,,retail
+1,2018,Sedgwick,,medical
+1,2018,San Miguel,484986.0,retail
+1,2018,Summit,118928.0,medical
+1,2018,Sedgwick,,retail
+1,2018,Weld,348569.0,medical
+1,2018,Summit,2841769.0,retail
+1,2018,Sum of NR Counties,544682.0,medical
+1,2018,Weld,2300531.0,retail
+4,2018,Adams,417502.0,medical
+4,2018,Adams,6868698.0,retail
+4,2018,Alamosa,,medical
+4,2018,Arapahoe,9954701.0,retail
+4,2018,Arapahoe,741609.0,medical
+4,2018,Archuleta,502525.0,retail
+4,2018,Archuleta,,medical
+4,2018,Boulder,6957538.0,retail
+4,2018,Boulder,1601589.0,medical
+4,2018,Chaffee,393528.0,retail
+4,2018,Chaffee,,medical
+4,2018,Clear Creek,490554.0,retail
+4,2018,Clear Creek,,medical
+4,2018,Conejos,435677.0,retail
+4,2018,Denver,11689420.0,medical
+4,2018,Costilla,292932.0,retail
+4,2018,Eagle,97151.0,medical
+4,2018,Denver,33791852.0,retail
+4,2018,El Paso,7826668.0,medical
+4,2018,Eagle,1144193.0,retail
+4,2018,Fremont,141438.0,medical
+4,2018,El Paso,,retail
+4,2018,Garfield,252013.0,medical
+4,2018,Garfield,1503426.0,retail
+4,2018,Gilpin,,medical
+4,2018,Gilpin,212366.0,retail
+4,2018,Grand,,medical
+4,2018,Grand,343222.0,retail
+4,2018,Jefferson,1084394.0,medical
+4,2018,Gunnison,437758.0,retail
+4,2018,La Plata,228755.0,medical
+4,2018,Huerfano,,retail
+4,2018,Larimer,1108635.0,medical
+4,2018,Jefferson,4142771.0,retail
+4,2018,Las Animas,34180.0,medical
+4,2018,Lake,197779.0,retail
+4,2018,Mesa,,medical
+4,2018,La Plata,1863227.0,retail
+4,2018,Moffat,,medical
+4,2018,Larimer,5632150.0,retail
+4,2018,Montezuma,45539.0,medical
+4,2018,Las Animas,3934794.0,retail
+4,2018,Montrose,,medical
+4,2018,Mesa,1482947.0,retail
+4,2018,Morgan,,medical
+4,2018,Moffat,,retail
+4,2018,Otero,,medical
+4,2018,Montezuma,1905829.0,retail
+4,2018,Ouray,,medical
+4,2018,Morgan,,retail
+4,2018,Park,,medical
+4,2018,Ouray,,retail
+4,2018,Pitkin,54543.0,medical
+4,2018,Park,325805.0,retail
+4,2018,Pueblo,478009.0,medical
+4,2018,Pitkin,699425.0,retail
+4,2018,Routt,157073.0,medical
+4,2018,Pueblo,4436171.0,retail
+4,2018,San Miguel,,medical
+4,2018,Routt,790286.0,retail
+4,2018,Sedgwick,,medical
+4,2018,Saguache,137104.0,retail
+4,2018,Summit,113189.0,medical
+4,2018,San Juan,,retail
+4,2018,Weld,375487.0,medical
+4,2018,San Miguel,219836.0,retail
+4,2018,Sum of NR Counties,571880.0,medical
+4,2018,Sedgwick,,retail
+9,2014,Adams,453206.0,medical
+9,2014,Adams,,retail
+9,2014,Alamosa,,medical
+9,2014,Archuleta,,retail
+9,2014,Arapahoe,1353297.0,medical
+9,2014,Boulder,3314834.0,retail
+9,2014,Archuleta,,medical
+9,2014,Chaffee,,retail
+9,2014,Boulder,2715576.0,medical
+9,2014,Clear Creek,375860.0,retail
+9,2014,Chaffee,,medical
+9,2014,Denver,14364191.0,retail
+9,2014,Clear Creek,102603.0,medical
+9,2014,Eagle,379890.0,retail
+9,2014,Costilla,,medical
+9,2014,El Paso,,retail
+9,2014,Denver,15196933.0,medical
+9,2014,Garfield,537711.0,retail
+9,2014,Eagle,181480.0,medical
+9,2014,Gilpin,138821.0,retail
+9,2014,El Paso,5953327.0,medical
+9,2014,Gunnison,255533.0,retail
+9,2014,Fremont,233349.0,medical
+9,2014,Jefferson,1701706.0,retail
+9,2014,Garfield,527700.0,medical
+9,2014,Lake,,retail
+9,2014,Gilpin,39786.0,medical
+9,2014,La Plata,,retail
+9,2014,Grand,,medical
+9,2014,Larimer,1378589.0,retail
+9,2014,Gunnison,,medical
+9,2014,Morgan,,retail
+9,2014,Jefferson,1845807.0,medical
+9,2014,Ouray,,retail
+9,2014,La Plata,623331.0,medical
+9,2014,Park,,retail
+9,2014,Larimer,1315740.0,medical
+9,2014,Pitkin,316259.0,retail
+9,2014,Mesa,,medical
+9,2014,Pueblo,1386314.0,retail
+9,2014,Moffat,,medical
+9,2014,Routt,,retail
+9,2014,Montezuma,125628.0,medical
+9,2014,Saguache,,retail
+9,2014,Montrose,,medical
+9,2014,San Miguel,501532.0,retail
+9,2014,Morgan,,medical
+9,2014,Sedgwick,,retail
+9,2014,Ouray,,medical
+9,2014,Summit,726128.0,retail
+9,2014,Park,,medical
+9,2014,Weld,1201206.0,retail
+9,2014,Pitkin,100612.0,medical
+9,2014,Sum of NR Counties,3766783.0,retail
+9,2014,Pueblo,436843.0,medical
+9,2014,Routt,167807.0,medical
+9,2014,San Miguel,39758.0,medical
+9,2014,Sedgwick,,medical
+9,2014,Summit,179358.0,medical
+9,2014,Teller,,medical
+9,2014,Weld,287891.0,medical
+9,2014,Sum of NR Counties,841206.0,medical
+8,2014,Adams,481873.0,medical
+8,2014,Adams,,retail
+8,2014,Alamosa,,medical
+8,2014,Boulder,3644021.0,retail
+8,2014,Arapahoe,1453140.0,medical
+8,2014,Chaffee,,retail
+8,2014,Archuleta,,medical
+8,2014,Clear Creek,480132.0,retail
+8,2014,Boulder,2728671.0,medical
+8,2014,Denver,15901236.0,retail
+8,2014,Chaffee,75887.0,medical
+8,2014,Eagle,414091.0,retail
+8,2014,Clear Creek,102919.0,medical
+8,2014,El Paso,,retail
+8,2014,Costilla,,medical
+8,2014,Garfield,603468.0,retail
+8,2014,Denver,15861744.0,medical
+8,2014,Gilpin,155054.0,retail
+8,2014,Eagle,171357.0,medical
+8,2014,Gunnison,309611.0,retail
+8,2014,El Paso,6327504.0,medical
+8,2014,Jefferson,1858831.0,retail
+8,2014,Fremont,268966.0,medical
+8,2014,Lake,,retail
+8,2014,Garfield,531623.0,medical
+8,2014,Larimer,1340810.0,retail
+8,2014,Gilpin,42366.0,medical
+8,2014,Ouray,,retail
+8,2014,Grand,,medical
+8,2014,Park,,retail
+8,2014,Gunnison,,medical
+8,2014,Pitkin,502231.0,retail
+8,2014,Jefferson,2021406.0,medical
+8,2014,Pueblo,1685115.0,retail
+8,2014,La Plata,657993.0,medical
+8,2014,Routt,,retail
+8,2014,Larimer,1207539.0,medical
+8,2014,Saguache,,retail
+8,2014,Mesa,,medical
+8,2014,San Miguel,591931.0,retail
+8,2014,Moffat,,medical
+8,2014,Sedgwick,,retail
+8,2014,Montezuma,132833.0,medical
+8,2014,Summit,941538.0,retail
+8,2014,Montrose,,medical
+8,2014,Weld,1291047.0,retail
+8,2014,Ouray,,medical
+8,2014,Sum of NR Counties,3801492.0,retail
+8,2014,Park,,medical
+8,2014,Pitkin,115179.0,medical
+8,2014,Pueblo,460037.0,medical
+8,2014,Routt,170505.0,medical
+8,2014,Saguache,,medical
+8,2014,San Miguel,46369.0,medical
+8,2014,Sedgwick,,medical
+8,2014,Summit,177412.0,medical
+8,2014,Teller,,medical
+8,2014,Weld,275556.0,medical
+8,2014,Sum of NR Counties,601347.0,medical
+8,2016,Adams,405729.0,medical
+8,2016,Adams,4444010.0,retail
+8,2016,Alamosa,,medical
+8,2016,Arapahoe,9084765.0,retail
+8,2016,Arapahoe,1587942.0,medical
+8,2016,Archuleta,,retail
+8,2016,Archuleta,,medical
+8,2016,Boulder,6420613.0,retail
+8,2016,Boulder,2346058.0,medical
+8,2016,Chaffee,,retail
+8,2016,Chaffee,,medical
+8,2016,Clear Creek,660536.0,retail
+8,2016,Clear Creek,90213.0,medical
+8,2016,Conejos,424132.0,retail
+8,2016,Costilla,,medical
+8,2016,Costilla,369689.0,retail
+8,2016,Denver,20203873.0,medical
+8,2016,Denver,27642402.0,retail
+8,2016,Eagle,207938.0,medical
+8,2016,Eagle,1120217.0,retail
+8,2016,El Paso,9379173.0,medical
+8,2016,El Paso,,retail
+8,2016,Fremont,241413.0,medical
+8,2016,Garfield,1712513.0,retail
+8,2016,Garfield,492910.0,medical
+8,2016,Gilpin,284116.0,retail
+8,2016,Gilpin,,medical
+8,2016,Grand,401001.0,retail
+8,2016,Grand,,medical
+8,2016,Gunnison,477649.0,retail
+8,2016,Gunnison,,medical
+8,2016,Huerfano,,retail
+8,2016,Jefferson,1704885.0,medical
+8,2016,Jefferson,4468831.0,retail
+8,2016,La Plata,447191.0,medical
+8,2016,Lake,297877.0,retail
+8,2016,Larimer,1416132.0,medical
+8,2016,La Plata,2212954.0,retail
+8,2016,Las Animas,,medical
+8,2016,Larimer,4318202.0,retail
+8,2016,Mesa,,medical
+8,2016,Las Animas,2193813.0,retail
+8,2016,Moffat,,medical
+8,2016,Mesa,,retail
+8,2016,Montezuma,88650.0,medical
+8,2016,Montezuma,1297984.0,retail
+8,2016,Montrose,,medical
+8,2016,Morgan,,retail
+8,2016,Morgan,,medical
+8,2016,Ouray,492384.0,retail
+8,2016,Ouray,,medical
+8,2016,Park,378230.0,retail
+8,2016,Park,,medical
+8,2016,Pitkin,1017858.0,retail
+8,2016,Pitkin,101521.0,medical
+8,2016,Pueblo,2940830.0,retail
+8,2016,Pueblo,945662.0,medical
+8,2016,Routt,888583.0,retail
+8,2016,Routt,171608.0,medical
+8,2016,Saguache,,retail
+8,2016,San Miguel,47479.0,medical
+8,2016,San Juan,,retail
+8,2016,Sedgwick,,medical
+8,2016,San Miguel,411794.0,retail
+8,2016,Summit,165787.0,medical
+8,2016,Sedgwick,,retail
+8,2016,Teller,,medical
+8,2016,Summit,1702918.0,retail
+8,2016,Weld,340391.0,medical
+8,2016,Weld,2444651.0,retail
+8,2016,Sum of NR Counties,672393.0,medical
+8,2016,Sum of NR Counties,5946811.0,retail
+9,2016,Adams,412289.0,medical
+9,2016,Adams,4668880.0,retail
+9,2016,Alamosa,,medical
+9,2016,Arapahoe,9183907.0,retail
+9,2016,Arapahoe,1493979.0,medical
+9,2016,Archuleta,,retail
+9,2016,Archuleta,,medical
+9,2016,Boulder,6306894.0,retail
+9,2016,Boulder,2337601.0,medical
+9,2016,Chaffee,489993.0,retail
+9,2016,Chaffee,,medical
+9,2016,Clear Creek,608871.0,retail
+9,2016,Clear Creek,76291.0,medical
+9,2016,Conejos,435435.0,retail
+9,2016,Costilla,,medical
+9,2016,Costilla,342066.0,retail
+9,2016,Denver,19190347.0,medical
+9,2016,Denver,29423313.0,retail
+9,2016,Eagle,191615.0,medical
+9,2016,Eagle,995070.0,retail
+9,2016,El Paso,9387013.0,medical
+9,2016,El Paso,,retail
+9,2016,Fremont,239079.0,medical
+9,2016,Garfield,1754542.0,retail
+9,2016,Garfield,425704.0,medical
+9,2016,Gilpin,300505.0,retail
+9,2016,Gilpin,,medical
+9,2016,Grand,,retail
+9,2016,Grand,,medical
+9,2016,Gunnison,627401.0,retail
+9,2016,Gunnison,,medical
+9,2016,Huerfano,,retail
+9,2016,Jefferson,1611356.0,medical
+9,2016,Jefferson,4537417.0,retail
+9,2016,La Plata,442682.0,medical
+9,2016,Lake,251980.0,retail
+9,2016,Larimer,1335581.0,medical
+9,2016,La Plata,2226213.0,retail
+9,2016,Las Animas,,medical
+9,2016,Larimer,4343498.0,retail
+9,2016,Mesa,,medical
+9,2016,Las Animas,2485885.0,retail
+9,2016,Moffat,,medical
+9,2016,Mesa,,retail
+9,2016,Montezuma,84028.0,medical
+9,2016,Montezuma,1439910.0,retail
+9,2016,Montrose,,medical
+9,2016,Morgan,652609.0,retail
+9,2016,Morgan,,medical
+9,2016,Ouray,515896.0,retail
+9,2016,Ouray,,medical
+9,2016,Park,359173.0,retail
+9,2016,Park,,medical
+9,2016,Pitkin,852785.0,retail
+9,2016,Pitkin,79255.0,medical
+9,2016,Pueblo,3140055.0,retail
+9,2016,Pueblo,924444.0,medical
+9,2016,Routt,835572.0,retail
+9,2016,Routt,,medical
+9,2016,Saguache,,retail
+9,2016,San Miguel,52220.0,medical
+9,2016,San Juan,,retail
+9,2016,Sedgwick,,medical
+9,2016,San Miguel,437620.0,retail
+9,2016,Summit,142523.0,medical
+9,2016,Sedgwick,,retail
+9,2016,Teller,,medical
+9,2016,Summit,1412253.0,retail
+9,2016,Weld,356553.0,medical
+9,2016,Weld,2567248.0,retail
+9,2016,Sum of NR Counties,889923.0,medical
+9,2016,Sum of NR Counties,4942418.0,retail
