@@ -6,5 +6,5 @@ We're using Python 3.x with [`pipenv`](https://docs.pipenv.org/) to manage depen
 
 1. Clone or download this repository
 2. `cd` into the directory
-3. `pipenv install`
+3. `pipenv --three install`
 4. `pipenv run jupyter notebook`
