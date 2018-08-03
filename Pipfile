@@ -12,8 +12,8 @@ openpyxl = "*"
 pdfplumber = "*"
 xlrd = "*"
 matplotlib = "*"
+selenium = "*"
 
 [dev-packages]
 
 [requires]
-
