@@ -2,5 +2,5 @@ codys_dog = {
     'name': 'Charlie',
     'breed': '?',
     'age_mos': 12,
-    'picture': 'https://raw.githubusercontent.com/ireapps/djnf-coding/master/2018/img/charlie.jpg'
+    'picture': 'https://raw.githubusercontent.com/ireapps/cfj-2018/master/img/charlie.jpg'
 }

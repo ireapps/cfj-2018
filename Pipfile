@@ -13,6 +13,10 @@ pdfplumber = "*"
 xlrd = "*"
 matplotlib = "*"
 selenium = "*"
+usaddress = "*"
+probablepeople = "*"
+pytz = "*"
+maya = "*"
 
 [dev-packages]
 
