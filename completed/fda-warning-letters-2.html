@@ -84,10 +84,19 @@
 				$(thisTab).css("background", "#fff");
 		});
 	</script>
-<!-- Google Auto Suggest-->
-  <link rel="stylesheet" type="text/css" media="screen" href="/ucm/groups/fdagov-public/@system/documents/system/css_fdagov_googlesuggest.css" />
-  <script type="text/javascript" src="/ucm/groups/fdagov-public/@system/documents/system/js_fdagov_googlesuggest.js"></script>
-<!--END  Google Auto Suggest-->
+	<!-- Search.gov -->
+		<script>
+		//<![CDATA[
+			  var usasearch_config = { siteHandle:"fda" };
+		
+			  var script = document.createElement("script");
+			  script.type = "text/javascript";
+			  script.src = "//search.usa.gov/javascripts/remote.loader.js";
+			  document.getElementsByTagName("head")[0].appendChild(script);
+		
+		//]]>
+		</script>	
+	<!--END  Search.gov -->
 
 <!--- /**** FEATURE SECTION ****/-->	
 <!--- /**** SUBTOPIC/CONTENT SECTION ****/-->
@@ -177,7 +186,7 @@
 		<div class="quicklinks">
 	  <ul>
 		<li><a href="#main" accesskey="2" tabindex="1" title="Skip to content">Skip to main page content</a></li>
-		<li class="visible-md visible-lg"><a href="#searchbox" tabindex="1" title="Skip to search">Skip to search</a></li>
+		<li class="visible-md visible-lg"><a href="#search_form" tabindex="1" title="Skip to search">Skip to search</a></li>
 		<li class="visible-md visible-lg"><a href="#fda-topmenu-home" tabindex="1" title="Skip to FDA top menu">Skip to topics menu</a></li>
 		<li class="visible-md visible-lg"><a href="#footer-heading" tabindex="1" title="Skip to site options">Skip to common links</a></li>
 	  </ul>
@@ -226,27 +235,18 @@
 
 				<div id="search-form" class="row fda-masthead-search">
 					<div class="col-xs-12 col-sm-12">
-						<form role="search" action="https://google2.fda.gov/search" method="get" name="searchForm" id="searchbox">
-							<div class="input-group">
-						    <label class="sr-only" for="search">Search FDA</label>
-						    <input accesskey="4" class="form-control" type="text" id="search" name="q" placeholder="Search FDA" onKeyUp="getRequest()" autocomplete="off" /> 
+                          <form role="search" id="search_form" action="https://search.usa.gov/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+							
+                            <div class="input-group">
+                                <input type="hidden" name="affiliate" id="affiliate" value="fda" />
+						    	<label class="query sr-only" for="query">Search FDA</label>
+                                <input accesskey="4" class="form-control usagov-search-autocomplete" type="text" id="query" name="query" placeholder="Search FDA" autocomplete="off" /> 
+                                <span class="input-group-btn">
+                                    <button type="submit" class="btn btn-danger" title="Search" name="commit" value="Search"><span class="icon-search" aria-hidden="true"><span class="sr-only">Submit search</span></span></button>
+					     		</span>
+                            </div>
+                          </form>
 
-					      <span class="input-group-btn">
-					        <button type="submit" class="btn btn-danger" title="Search" onClick="javascript:document.getElementById('searchbox').submit();"><span class="icon-search" aria-hidden="true"><span class="sr-only">Submit search</span></span></button>
-					      </span>
-<div class="surround0M"> 
-  <div id=":0D" role="listbox" class="ac-renderer ss-gac-m" style="background-color: #ffffff; color: #000000; min-width: 204px; width: 100%; top: 2.2em !important; position:absolute !important; left:0 !important; -moz-user-select: none; display: none;"></div></div>
-                         </div><!-- /input-group -->
-							<!-- ==== BEGIN HIDDEN SEARCH FIELDS ==== -->
-							<input type="hidden" name="client" value="FDAgov">
-							<input type="hidden" name="site" value="FDAgov">
-							<input type="hidden" name="lr" value="">
-							<input type="hidden" name="proxystylesheet" value="FDAgov">
-							<input type="hidden" name="requiredfields" value="-archive:Yes">
-							<input type="hidden" name="output" value="xml_no_dtd">
-							<input type="hidden" name="getfields" value="*">
-							<!-- ==== END HIDDEN SEARCH FIELDS ==== -->
-						</form>
 					</div> <!-- /search-fda -->
 				</div> <!-- /row -->
 
@@ -380,7 +380,7 @@
  
 <!--==== START Dynamic List ====-->
 <!-- PARAMS=IdcService=SS_GET_PAGE&siteId=FDAgov&ssDomainNum=&siteRelativeUrl=%2FICECI%2FEnforcementActions%2FWarningLetters%2F2018%2Fdefault.htm&ssUrlType=1&Page=2-->
-<!--223-->
+<!--108-->
  
  
  
@@ -406,22 +406,10 @@
 		  	     
 				
   <tr>
-		 <td>05/18/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm608259.htm">Sunergized LLC</a></td>
-		 <td> Center for Food Safety and Applied Nutrition</td>
-		 <td> New Drug/Labeling/Misbranded</td>
-		 <td nowrap>
-				06/19/2018
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>05/18/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm607904.htm">Revibe, Inc.</a></td>
-		 <td> Center for Drug Evaluation and Research</td>
-		 <td> Unapproved New Drug/Misbranded</td>
+		 <td>05/30/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm610744.htm">Savage Juice</a></td>
+		 <td> Center for Tobacco Products</td>
+		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
 		 <td nowrap>
 				<a href="#wldisclaimer">Not Issued *</a>
 		</td>
@@ -430,10 +418,238 @@
 		  	     
 				
   <tr>
-		 <td>05/18/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm608260.htm">Napa Valley Bioscience</a></td>
+		 <td>05/30/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm610073.htm">JSST Enterprises LLC</a></td>
+		 <td> Center for Tobacco Products</td>
+		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/30/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm610749.htm">Blowing Vapors</a></td>
+		 <td> Center for Tobacco Products</td>
+		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/30/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm610750.htm">Swamp Vapor Lafayette</a></td>
+		 <td> Center for Tobacco Products</td>
+		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/30/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm610740.htm">Hi Five Ohm Vape Co</a></td>
+		 <td> Center for Tobacco Products</td>
+		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/29/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm609672.htm">XLPharmacy</a></td>
+		 <td> Center for Drug Evaluation and Research</td>
+		 <td> Finished Pharmaceuticals/Unapproved New Drug/Misbranded</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/29/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm609814.htm">Medstore.biz</a></td>
+		 <td> Center for Drug Evaluation and Research</td>
+		 <td> Finished Pharmaceuticals/Unapproved New Drug/Misbranded</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/29/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm609749.htm">RxCash.Biz</a></td>
+		 <td> Center for Drug Evaluation and Research</td>
+		 <td> Finished Pharmaceuticals/Unapproved New Drug/Misbranded</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/29/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm609762.htm">RemedyMart</a></td>
+		 <td> Center for Drug Evaluation and Research</td>
+		 <td> Finished Pharmaceuticals/Unapproved New Drug/Misbranded</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/29/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm609818.htm">Instabill ECSâRx</a></td>
+		 <td> Center for Drug Evaluation and Research</td>
+		 <td> Finished Pharmaceuticals/Unapproved New Drug/Misbranded</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/29/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm609822.htm">AnonShop</a></td>
+		 <td> Center for Drug Evaluation and Research</td>
+		 <td> Finished Pharmaceuticals/Unapproved New Drug/Misbranded</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/29/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm609739.htm">TramadolHub</a></td>
+		 <td> Center for Drug Evaluation and Research</td>
+		 <td> Finished Pharmaceuticals/Unapproved New Drug/Misbranded</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/29/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm609821.htm">Eassybuyonline</a></td>
+		 <td> Center for Drug Evaluation and Research</td>
+		 <td> Finished Pharmaceuticals/Unapproved New Drug/Misbranded</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/29/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm609529.htm">LiquidCaffeine.com</a></td>
 		 <td> Center for Food Safety and Applied Nutrition</td>
-		 <td> New Drug/Labeling/Misbranded</td>
+		 <td> Dietary Supplement/Adulterated</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/29/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm609780.htm">One Stop Pharma</a></td>
+		 <td> Center for Drug Evaluation and Research</td>
+		 <td> Finished Pharmaceuticals/Unapproved New Drug/Misbranded</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/29/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm609527.htm">Dual Health Body and Mind</a></td>
+		 <td> Center for Food Safety and Applied Nutrition</td>
+		 <td> Dietary Supplement/Adulterated</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/24/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm612480.htm">Bimeda, Inc.</a></td>
+		 <td> Center for Veterinary Medicine</td>
+		 <td> False & Misleading Claims/Misbranded</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/24/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm609165.htm">The Fertility Partnership LLC</a></td>
+		 <td> Chicago District Office</td>
+		 <td> Deviations/CFR/Regulations for Human Cells, Tissues & Cellular Products (HCT/Ps)</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/23/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm609133.htm">Creative Science, Inc.</a></td>
+		 <td> Detroit District Office</td>
+		 <td> Human Drug/Marketing/Animal Drug/Unsafe/Adulterated</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/23/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm609195.htm">IDT Australia Ltd.</a></td>
+		 <td> Center for Drug Evaluation and Research</td>
+		 <td> CGMP/Active Pharmaceutical Ingredient (API)/Adulterated</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/21/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm610919.htm">Oeyama-Moto-Medical Group Foundation, LLC</a></td>
+		 <td> Center for Drug Evaluation and Research</td>
+		 <td> Good Laboratory Practice (GLP) for Nonclinical Laboratory Studies</td>
 		 <td nowrap>
 				<a href="#wldisclaimer">Not Issued *</a>
 		</td>
@@ -455,7 +671,67 @@
 				
   <tr>
 		 <td>05/18/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm607903.htm">Front Range Kratom</a></td>
+		 <td> Center for Drug Evaluation and Research</td>
+		 <td> Unapproved New Drug/Misbranded</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/18/2018 </td>
 		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm609136.htm">Kolmar Korea Co. Ltd.</a></td>
+		 <td> Center for Drug Evaluation and Research</td>
+		 <td> CGMP/Finished Pharmaceuticals/Adulterated</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/18/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm607904.htm">Revibe, Inc.</a></td>
+		 <td> Center for Drug Evaluation and Research</td>
+		 <td> Unapproved New Drug/Misbranded</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/18/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm607901.htm">Kratom Spot</a></td>
+		 <td> Center for Drug Evaluation and Research</td>
+		 <td> Unapproved New Drug/Misbranded</td>
+		 <td nowrap>
+				<a href="#wldisclaimer">Not Issued *</a>
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/18/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm608259.htm">Sunergized LLC</a></td>
+		 <td> Center for Food Safety and Applied Nutrition</td>
+		 <td> New Drug/Labeling/Misbranded</td>
+		 <td nowrap>
+				06/19/2018
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/18/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm608717.htm">Jalco Cosmetics Pty Ltd.</a></td>
 		 <td> Center for Drug Evaluation and Research</td>
 		 <td> CGMP/Finished Pharmaceuticals/Adulterated</td>
 		 <td nowrap>
@@ -491,9 +767,9 @@
 				
   <tr>
 		 <td>05/18/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm607903.htm">Front Range Kratom</a></td>
-		 <td> Center for Drug Evaluation and Research</td>
-		 <td> Unapproved New Drug/Misbranded</td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm608257.htm">GliSODin Skin Nutrients</a></td>
+		 <td> Center for Food Safety and Applied Nutrition</td>
+		 <td> New Drug/Labeling/Misbranded</td>
 		 <td nowrap>
 				<a href="#wldisclaimer">Not Issued *</a>
 		</td>
@@ -503,9 +779,9 @@
 				
   <tr>
 		 <td>05/18/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm608717.htm">Jalco Cosmetics Pty Ltd.</a></td>
-		 <td> Center for Drug Evaluation and Research</td>
-		 <td> CGMP/Finished Pharmaceuticals/Adulterated</td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm608260.htm">Napa Valley Bioscience</a></td>
+		 <td> Center for Food Safety and Applied Nutrition</td>
+		 <td> New Drug/Labeling/Misbranded</td>
 		 <td nowrap>
 				<a href="#wldisclaimer">Not Issued *</a>
 		</td>
@@ -587,35 +863,11 @@
 				
   <tr>
 		 <td>05/10/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605912.htm">13th Floor Elevapors, LLC</a></td>
-		 <td> Center for Tobacco Products</td>
-		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>05/10/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605903.htm">Chill E-Liquid</a></td>
-		 <td> Center for Tobacco Products</td>
-		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>05/10/2018 </td>
 		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605909.htm">VallHund Vapes Inc.</a></td>
 		 <td> Center for Tobacco Products</td>
 		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
 		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
+				07/13/2018
 		</td>
   </tr>
   
@@ -627,7 +879,31 @@
 		 <td> Center for Tobacco Products</td>
 		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
 		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
+				07/13/2018
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/10/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605912.htm">13th Floor Elevapors, LLC</a></td>
+		 <td> Center for Tobacco Products</td>
+		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
+		 <td nowrap>
+				07/31/2018
+		</td>
+  </tr>
+  
+		  	     
+				
+  <tr>
+		 <td>05/10/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605903.htm">Chill E-Liquid</a></td>
+		 <td> Center for Tobacco Products</td>
+		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
+		 <td nowrap>
+				07/13/2018
 		</td>
   </tr>
   
@@ -682,34 +958,10 @@
 		  	     
 				
   <tr>
-		 <td>05/01/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605930.htm">Cosmic Fog Vapors LLC</a></td>
-		 <td> Center for Tobacco Products</td>
-		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>05/01/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605819.htm">ACH Group, LLC d/b/a Candy Co E-Liquids</a></td>
-		 <td> Center for Tobacco Products</td>
-		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>05/01/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605938.htm">Drip More LLC</a></td>
-		 <td> Center for Tobacco Products</td>
-		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
+		 <td>05/03/2018 </td>
+		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm615887.htm">Ramirez & Ca. (Filhos)</a></td>
+		 <td> Center for Food Safety and Applied Nutrition</td>
+		 <td> Seafood HACCP/CGMP for Foods/Adulterated</td>
 		 <td nowrap>
 				<a href="#wldisclaimer">Not Issued *</a>
 		</td>
@@ -723,43 +975,7 @@
 		 <td> Center for Tobacco Products</td>
 		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
 		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>05/01/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605893.htm">Omnia E-Liquid</a></td>
-		 <td> Center for Tobacco Products</td>
-		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>05/01/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605911.htm">Warrender Enterprise Inc.</a></td>
-		 <td> Center for Tobacco Products</td>
-		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>05/01/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605827.htm">On Cloud Vape</a></td>
-		 <td> Center for Tobacco Products</td>
-		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
+				07/13/2018
 		</td>
   </tr>
   
@@ -771,43 +987,7 @@
 		 <td> Center for Tobacco Products</td>
 		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
 		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>05/01/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605895.htm">Ultimate Vape Deals</a></td>
-		 <td> Center for Tobacco Products</td>
-		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>05/01/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605897.htm">Fog It Up</a></td>
-		 <td> Center for Tobacco Products</td>
-		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>05/01/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605933.htm">7 Daze, LLC</a></td>
-		 <td> Center for Tobacco Products</td>
-		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
+				07/31/2018
 		</td>
   </tr>
   
@@ -819,187 +999,7 @@
 		 <td> Center for Tobacco Products</td>
 		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
 		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>05/01/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605900.htm">NEwhere Inc. d/b/a Mad Hatter Juice</a></td>
-		 <td> Center for Tobacco Products</td>
-		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>04/30/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm606528.htm">Chi's Enterprise Inc</a></td>
-		 <td> Los Angeles District Office</td>
-		 <td> CGMP/Dietary Supplement/Adulterated</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>04/25/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm606214.htm">Hood River Juice Company, Inc.</a></td>
-		 <td> Seattle District Office</td>
-		 <td> Juice HACCP/CGMP for Foods/Adulterated/Insanitary Conditions</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>04/25/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm606875.htm">Baker's Best Health Products, Inc.</a></td>
-		 <td> Chicago District Office</td>
-		 <td> Unapproved New Drugs/Misbranded</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>04/24/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm606231.htm">Goran Pharma Pvt Ltd</a></td>
-		 <td> Center for Drug Evaluation and Research</td>
-		 <td> CGMP/Finished Pharmaceuticals/Adulterated</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>04/20/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm610669.htm">E-Liquid Circle LLC</a></td>
-		 <td> Center for Tobacco Products</td>
-		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>04/19/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605324.htm">Southern Cloud Cartel LLC</a></td>
-		 <td> Center for Tobacco Products</td>
-		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>04/19/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605392.htm">Lijiang Yinghua Biochemical and Pharmaceutical Co., Ltd.</a></td>
-		 <td> Center for Drug Evaluation and Research</td>
-		 <td> CGMP/Active Pharmaceutical Ingredient (API)/Adulterated</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>04/18/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm606746.htm">Herbs America, Inc.</a></td>
-		 <td> Seattle District Office</td>
-		 <td> New Drug/Misbranded</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>04/18/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605390.htm">Degasa S.A. De C.V.</a></td>
-		 <td> Center for Drug Evaluation and Research</td>
-		 <td> CGMP/Finished Pharmaceuticals/Adulterated</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>04/18/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605283.htm">Phase 4 Pharmaceutical LLC</a></td>
-		 <td> Dallas District Office</td>
-		 <td> CGMP/Finished Pharmaceuticals/Adulterated</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>04/18/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm605396.htm">MC Fish Co</a></td>
-		 <td> Cincinnati District Office</td>
-		 <td> Seafood HACCP/CGMP for Foods/Adulterated/Insanitary Conditions</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>04/16/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm606805.htm">Ei LLC</a></td>
-		 <td> Dallas District Office</td>
-		 <td> CGMP/Finished Pharmaceuticals/Adulterated</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>04/12/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm604659.htm">The Sub Ohm Syndicate</a></td>
-		 <td> Center for Tobacco Products</td>
-		 <td> Family Smoking Prevention and Tobacco Control Act/Adulterated/Misbranded</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
-		</td>
-  </tr>
-  
-		  	     
-				
-  <tr>
-		 <td>04/09/2018 </td>
-		 <td style="text-decoration: underline;"><a href="/ICECI/EnforcementActions/WarningLetters/ucm604560.htm">McCallum Manufacturing Ltd</a></td>
-		 <td> Center for Drug Evaluation and Research</td>
-		 <td> CGMP/Finished Pharmaceuticals/Adulterated</td>
-		 <td nowrap>
-				<a href="#wldisclaimer">Not Issued *</a>
+				07/13/2018
 		</td>
   </tr>
   
@@ -1108,8 +1108,8 @@ you for visiting <a href="http://esp.fda.gov/TobaccoProducts/default.htm">esp.fd
 			
 			
 	
-	<!-- <li>Page Last Updated: 07/30/2018</li> -->
-	Page Last Updated: 07/30/2018
+	<!-- <li>Page Last Updated: 08/24/2018</li> -->
+	Page Last Updated: 08/24/2018
 <!-- </ul> -->
 
 
