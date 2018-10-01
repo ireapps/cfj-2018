@@ -17,6 +17,7 @@ usaddress = "*"
 probablepeople = "*"
 pytz = "*"
 maya = "*"
+jupyter-console = "<5"
 
 [dev-packages]
 
