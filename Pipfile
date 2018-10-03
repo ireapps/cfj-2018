@@ -18,6 +18,7 @@ probablepeople = "*"
 pytz = "*"
 maya = "*"
 jupyter-console = "<5"
+prompt-toolkit = "==1.0.15"
 
 [dev-packages]
 
